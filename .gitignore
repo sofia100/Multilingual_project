@@ -1,0 +1,23 @@
+
+# in this .gitingore file, we are ignoring the IndicTrans2 and IndicTransToolkit directories
+# so that they are not included in the git repository
+IndicTrans2/
+IndicTransToolkit/
+IndicTransToolkit/IndicTransToolkit/
+
+old_code/
+odia\ csv/
+
+OdiEnCorp_1.0/
+hindi_csv/
+
+BPCC.zip
+en-hi.txt.zip
+
+relations_dataset.csv
+
+BPCC/
+zip_path
+samanantar_en_hi.zip
+
+lang_rel_dict/
