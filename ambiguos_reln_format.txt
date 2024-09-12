@@ -47,3 +47,31 @@
     6.3 father's mother's sister:
     6.4 mother's mother's sister:
     6.5 (and any other possible reln)[english explaination : reln in script]
+
+7. Nephew:
+    7.1 brother's son:
+    7.2 sister's son:
+    7.3 (and any other possible reln)[english explaination : reln in script]
+8. Niece:
+    8.1 brother's daughter:
+    8.2 sister's daughter:
+    7.3 (and any other possible reln)[english explaination : reln in script]
+9. Cousin:
+    9.0 Does this depend on age and say simply brother and sister or call by names?
+    9.1 father's elder brother's son:
+    9.2 father's younger brother's son:
+    9.3 mother's elder brother's son:
+    9.4 mother's younger brother' son:
+    9.5 father's elder sister's son:
+    9.6 father's younger sister's son:
+    9.7 mother's elder sister's son:
+    9.8 mother's younger sister's son:
+    9.9 father's elder brother's daughter:
+    9.10 father's younger brother's daughter:
+    9.11 mother's elder brother's daughter:
+    9.12 mother's younger brother' daughter:
+    9.13 father's elder sister's daughter:
+    9.14 father's younger sister's daughter:
+    9.15 mother's elder sister's daughter:
+    9.16 mother's younger sister's daughter:
+    9.17 (and any other possible reln)[english explaination : reln in script]
