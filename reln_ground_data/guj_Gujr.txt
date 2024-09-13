@@ -1,0 +1,53 @@
+Sister-in-law:
+
+1.1 Husband's elder sister: નણંદ
+1.2 Husband's younger sister: નણંદ
+1.3 Elder brother's wife: ભાભી
+1.4 Younger brother's wife: ભાભી
+1.5 Wife's elder sister:  સાળી
+1.6 Wife's younger sister:  સાળી
+
+Brother-in-law:
+
+2.1 Wife's elder brother: 	સાળો 
+2.2 Wife's younger brother: સાળો 
+2.3 Elder sister's husband: બનેવી 
+2.4 Younger sister's husband: બનેવી 
+2.5 Husband's elder brother: જેઠ
+2.6 Husband's younger brother: દિયર
+
+Uncle:
+
+3.1 Father's elder brother: કાકા
+3.2 Father's younger brother: કાકા
+3.3 Mother's elder brother: મામા
+3.4 Mother's younger brother: મામા
+3.5 Father's elder sister's husband: ફુઆ
+3.6 Father's younger sister's husband: ફુઆ
+3.7 Mother's elder sister's husband: માસા
+3.8 Mother's younger sister's husband: માસા
+
+Aunt:
+
+4.1 Father's elder sister: ફોઈ
+4.2 Father's younger sister: ફોઈ
+4.3 Mother's elder sister: માસી
+4.4 Mother's younger sister: માસી
+4.5 Father's elder brother's wife: કાકી
+4.6 Father's younger brother's wife: કાકી
+4.7 Mother's elder brother's wife: મામી
+4.8 Mother's younger brother's wife: મામી
+
+Grandfather:
+
+5.1 Father's father: દાદા
+5.2 Mother's father: નાના
+5.3 Father's father's brother: 
+5.4 Mother's father's brother: 
+
+Grandmother:
+
+6.1 Father's mother: દાદી
+6.2 Mother's mother: નાની
+6.3 Father's mother's sister: 
+6.4 Mother's mother's sister:

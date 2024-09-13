@@ -1,0 +1,42 @@
+1. Sister in law : 
+    1.1 husband's elder sister: नानद
+    1.2 husband's younger sister : नानद
+    1.3 elder brother's wife: भाभी
+    1.4 younger brother's wife: भाभी    
+    1.5 wife's elder sister: साली
+    1.6 wife's younger sister: साली
+2. Brother in law:
+    2.1 wife's elder brother: साला
+    2.2 wife's younger brother: साला
+    2.3 elder sister's husband: जीजा
+    2.4 younger sister's husband: जीजा
+    2.5 husband's elder brother: जेठ
+    2.6 husband's younger brother: देवरा
+3. Uncle :
+    3.1 father's elder brother: ताऊ
+    3.2 father's younger brother: चाचा
+    3.3 mother's elder brother: मामा
+    3.4 mother's younger brother: मामा
+    3.5 father's elder sister's husband: फूफा
+    3.6 father's younger sister's husband: फूफा
+    3.7 mother's elder sister's husband: मौसा
+    3.8 mother's younger sister's husband: मौसा    
+4. Aunt:
+    4.1 father's elder sister: बुआ
+    4.2 father's younger sister: बुआ
+    4.3 mother's elder sister: मौसी
+    4.4 mother's younger sister: मौसी
+    4.5 father's elder brother's wife:tai
+    4.6 father's younger brother's wife: चाची
+    4.7 mother's elder brother's wife: मामी
+    4.8 mother's younger brother's wife: मामी
+5. Grandfather :
+    5.1 father's father: दादा
+    5.2 mother's father: नाना
+    5.3 father's father's brother: दादा
+    5.4 mother's father's brother: नाना
+6. Grandmother:
+    6.1 father's mother: दादी
+    6.2 mother's mother: नानी
+    6.3 father's mother's sister: दादी
+    6.4 mother's mother's sister: नानी

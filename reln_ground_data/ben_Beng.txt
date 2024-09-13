@@ -1,0 +1,34 @@
+1. Sister in law : 
+    1.1 husband's elder sister: বড়ো ননদ (bodo nanad)
+    1.2 husband's younger sister : ছোট ননদ (choto nanad)
+    1.3 elder brother's wife: বড়ো জা (bodo ja)
+    1.4 younger brother's wife: ছোট জা (choto ja)
+    1.5 wife's elder sister: বড়ো শালী (bodo shaali)
+    1.6 wife's younger sister: ছোট শালী (choto shaali)
+    
+2. Brother in law:
+    2.1 wife's elder brother: বড়ো শালা (bodo shala)
+    2.2 wife's younger brother: ছোট শালা (choto shala)
+    2.3 sister's husband: জামাই বাবু (jamai babu)
+    2.5 husband's elder brother:  ভাসুর (bhasur)
+    2.6 husband's younger brother: দেওর (daor)
+   
+3. Uncle :
+    3.1 father's elder brother: জেঠা মশাই (jetha mosai)
+    3.2 father's younger brother: কাকু (kaku)
+    3.3 mother's brother: মামা (mama)
+    3.5 father's sister's husband: পিশে মশাই (pishe moshai)
+    3.7 mother's sister's husband: মেশো মশাই (mesho moshai)
+    
+4. Aunt:
+    4.1 father's sister: পিসি মা (pishi ma) 
+    4.3 mother's sister: মাসী মা (mashi ma)
+    4.5 father's elder brother's wife: জেঠি মা (jethi ma)
+    4.6 father's younger brother's wife: কাকি মা (kaki ma)
+    4.7 mother's brother's wife: মামী মা (mami ma)
+    
+5. Grandfather : ঠাকুরদা (dadu) ; Nanaji is দাদু
+
+6. Grandmother:
+    6.1 father's mother: ঠাকু মা (thaku ma)
+    6.2 mother's mother: দিদি মা (didi ma)

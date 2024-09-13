@@ -1,0 +1,79 @@
+1. Sister in law : கொழுந்தியாள் / அண்ணி
+    1.1 husband's elder sister:  நாத்தனார் / மைத்துனி
+    1.2 husband's younger sister :  நாத்தனார் / மைத்துனி
+    1.3 elder brother's wife: அண்ணி
+    1.4 younger brother's wife: கொழுந்தியாள்
+    1.5 wife's elder sister: அக்கா
+    1.6 wife's younger sister: தங்கை
+    1.7 (and any other possible reln)[english explaination : reln in script]
+2. Brother in law: மைத்துனர்
+    2.1 wife's elder brother: மைத்துனர்
+    2.2 wife's younger brother: மைத்துனர்
+    2.3 elder sister's husband: மாமா / அத்திம்பேர்
+    2.4 younger sister's husband:மாப்பிள்ளை
+    2.5 husband's elder brother: மைத்துனன்
+    2.6 husband's younger brother: கொழுந்தன்
+    2.7 (and any other possible reln)[english explaination : reln in script] 
+3. Uncle : மாமா
+    3.1 father's elder brother: பெரியப்பா
+    3.2 father's younger brother: சித்தப்பா
+    3.3 mother's elder brother: பெரியப்பா
+    3.4 mother's younger brother: மாமா
+    3.5 father's elder sister's husband: பெரியப்பா
+    3.6 father's younger sister's husband: மாமா
+    3.7 mother's elder sister's husband: மாமா
+    3.8 mother's younger sister's husband: சித்தப்பா
+    3.9 (and any other possible reln)[english explaination : reln in script]
+    
+4. Aunt: அத்தை
+    4.1 father's elder sister: அத்தை
+    4.2 father's younger sister: சித்தி
+    4.3 mother's elder sister: அத்தை
+    4.4 mother's younger sister: சித்தி
+    4.5 father's elder brother's wife: பெரியம்மா
+    4.6 father's younger brother's wife: சித்தி
+    4.7 mother's elder brother's wife: அத்தை
+    4.8 mother's younger brother's wife: மாமி
+    4.9 (and any other possible reln)[english explaination : reln in script]
+5. Grandfather : தாத்தா
+    5.1 father's father: தாத்தா
+    5.2 mother's father: தாத்தா
+    5.3 father's father's younger brother: சின்ன தாத்தா
+    5.4 father's father's elder brother: பெரிய தாத்தா
+    5.5 mother's father's brother:
+    5.6 (and any other possible reln)[english explaination : reln in script]
+6. Grandmother: பாட்டி 
+    6.1 father's mother: பாட்டி /அப்பத்தா
+    6.2 mother's mother: பாட்டி / அம்மத்தா
+    6.3 father's mother's younger sister:சின்ன பாட்டி
+    6.4 father's mother's elder sister:பெரிய பாட்டி
+    6.5 mother's mother's sister:
+    6.6 (and any other possible reln)[english explaination : reln in script]
+
+7. Nephew:
+    7.1 brother's son:
+    7.2 sister's son:
+    7.3 (and any other possible reln)[english explaination : reln in script]
+8. Niece:
+    8.1 brother's daughter:
+    8.2 sister's daughter:
+    7.3 (and any other possible reln)[english explaination : reln in script]
+9. Cousin:
+    9.0 Does this depend on age and say simply brother and sister or call by names?
+    9.1 father's elder brother's son:
+    9.2 father's younger brother's son:
+    9.3 mother's elder brother's son:
+    9.4 mother's younger brother' son:
+    9.5 father's elder sister's son:
+    9.6 father's younger sister's son:
+    9.7 mother's elder sister's son:
+    9.8 mother's younger sister's son:
+    9.9 father's elder brother's daughter:
+    9.10 father's younger brother's daughter:
+    9.11 mother's elder brother's daughter:
+    9.12 mother's younger brother' daughter:
+    9.13 father's elder sister's daughter:
+    9.14 father's younger sister's daughter:
+    9.15 mother's elder sister's daughter:
+    9.16 mother's younger sister's daughter:
+    9.17 (and any other possible reln)[english explaination : reln in script]

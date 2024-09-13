@@ -1,0 +1,81 @@
+1. Sister in law : 
+    1.1 husband's elder sister: ବଡ଼ ନଣନ୍ଦ
+    1.2 husband's younger sister : ନଣନ୍ଦ
+    1.3 elder brother's wife: ଭାଉଜ
+    1.4 younger brother's wife: ଭାଇବୋହୁ
+    1.5 wife's elder sister: ଦେଢ଼ଶାସୁ
+    1.6 wife's younger sister: ଶାଳୀ
+    1.7 (and any other possible reln)[english explaination : reln in script]
+2. Brother in law:
+    2.1 wife's elder brother: ବଡ଼ ଶଳା
+    2.2 wife's younger brother: ଶଳା
+    2.3 elder sister's husband: ଭିନେଇ
+    2.4 younger sister's husband: 
+    2.5 husband's elder brother: ଦେଢ଼ଶୁର
+    2.6 husband's younger brother: ଦିଆର
+    2.7 (and any other possible reln)[english explaination : reln in script] 
+3. Uncle :
+    3.1 father's elder brother: ବଡ଼ବାପା
+    3.2 father's younger brother: ଦାଦା
+    3.3 mother's elder brother: ବଡ଼ ମାମୁ
+    3.4 mother's younger brother: ମାମୁ
+    3.5 father's elder sister's husband: ପିସା
+    3.6 father's younger sister's husband: ପିସା
+    3.7 mother's elder sister's husband: ମଉସା
+    3.8 mother's younger sister's husband: ମଉସା
+    3.9 (and any other possible reln)[english explaination : reln in script]
+    
+4. Aunt:
+    4.1 father's elder sister: ପିସୀ
+    4.2 father's younger sister: ପିସୀ
+    4.3 mother's elder sister: ମାଉସୀ
+    4.4 mother's younger sister: ମାଉସୀ
+    4.5 father's elder brother's wife: ବଡ଼ମା
+    4.6 father's younger brother's wife: ଖୁଡ଼ି
+    4.7 mother's elder brother's wife: ମାଇଁ
+    4.8 mother's younger brother's wife: ମାଇଁ
+    4.9 (and any other possible reln)[english explaination : reln in script]
+5. Grandfather :
+    5.1 father's father: ଜେଜେବାପା
+    5.2 mother's father: ଅଜା
+    5.3 father's father's brother:
+    5.4 mother's father's brother:
+    5.5 (and any other possible reln)[english explaination : reln in script]
+6. Grandmother:
+    6.1 father's mother: ଜେଜେମା
+    6.2 mother's mother: ଆଈ
+    6.3 father's mother's sister:
+    6.4 mother's mother's sister:
+    6.5 (and any other possible reln)[english explaination : reln in script]
+
+7. Nephew:
+    7.1 brother's son: ପୁତୁରା
+    7.2 sister's son: ଭଣଜା
+    7.3 (and any other possible reln)[english explaination : reln in script]
+8. Niece:
+    8.1 brother's daughter: ଝିଆରୀ
+    8.2 sister's daughter: ଭାଣିଜୀ
+    7.3 (and any other possible reln)[english explaination : reln in script]
+9. Cousin:
+    9.0 Does this depend on age and say simply brother and sister or call by names? ଭାଇ, ଦିଦି
+    9.1 father's elder brother's son:
+    9.2 father's younger brother's son:
+    9.3 mother's elder brother's son:
+    9.4 mother's younger brother' son:
+    9.5 father's elder sister's son:
+    9.6 father's younger sister's son:
+    9.7 mother's elder sister's son:
+    9.8 mother's younger sister's son:
+    9.9 father's elder brother's daughter:
+    9.10 father's younger brother's daughter:
+    9.11 mother's elder brother's daughter:
+    9.12 mother's younger brother' daughter:
+    9.13 father's elder sister's daughter:
+    9.14 father's younger sister's daughter:
+    9.15 mother's elder sister's daughter:
+    9.16 mother's younger sister's daughter:
+    9.17 (and any other possible reln)[english explaination : reln in script]
+
+10. Child: ପିଲା
+   10.1  Boy child: ପୁଅ
+   10.2 Girl child: ଝିଅ
