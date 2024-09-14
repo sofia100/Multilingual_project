@@ -77,3 +77,13 @@
     9.15 mother's elder sister's daughter:
     9.16 mother's younger sister's daughter:
     9.17 (and any other possible reln)[english explaination : reln in script]
+
+    #synthetic
+    Boy: சிறுவன்
+Girl: சிறுமி
+Bhaiya (brother): அண்ணா / தம்பி
+Didi (sister): அக்கா
+Brother's Son (Nephew): அண்ணன் மகன் / தம்பி மகன்
+Brother's Daughter (Niece): அண்ணன் மகள் / தம்பி மகள்
+Sister's Son (Nephew): மைத்துனன்
+Sister's Daughter (Niece): மைத்துனி

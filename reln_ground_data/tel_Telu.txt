@@ -47,3 +47,17 @@
     6.3 father's mother's sister: నాన్నమ (చిన్న నాన్నమ if younger, పెద్ద  నాన్నమ if older)
     6.4 mother's mother's sister: అమ్మమ (చిన్న అమ్మమ if younger, పెద్ద అమ్మమ if older)
     6.5 (and any other possible reln)[english explaination : reln in script]
+
+    #synthetic
+
+    Boy: బాలుడు
+Girl: బాలిక
+Bhaiya (brother): అన్నా / తమ్ముడు
+Didi (sister): అక్కా
+
+
+Brother's Son (Nephew): మేనకొడుకు
+Brother's Daughter (Niece): మేనకోడలు
+Sister's Son (Nephew): అల్లుడు
+Sister's Daughter (Niece): అమ్మాయి
+

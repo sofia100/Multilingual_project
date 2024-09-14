@@ -43,3 +43,5 @@
     6.2 mother's mother: ਨਾਨੀ
     6.3 father's mother's sister: don't know
     6.4 mother's mother's sister: don't know
+
+# rest synthetic data by translating HIndi to pUnjabi on Google Translate
