@@ -1,4 +1,4 @@
-possible_indic_relations = {
+possible_relations = {
     "grandmother": {
         # od done
         "ory_Orya": {
@@ -2051,6 +2051,13 @@ possible_indic_relations = {
                 "relation_code": "M",
                 "gender": "M",
             },
+            "ਭਾਂਜਾ":
+            {
+                  "description": "sister's son",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "M",
+            }
         },
     },
     "niece": {
@@ -2199,6 +2206,13 @@ possible_indic_relations = {
                 "relation_code": "M",
                 "gender": "F",
             },
+            "ਭਾਂਜੀ":{
+                 "description": "sister's daughter",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "F",
+            }
+
         },
     },
 }
