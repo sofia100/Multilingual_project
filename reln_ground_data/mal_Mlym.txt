@@ -1,51 +1,51 @@
-1. Sister in law :  നാത്തൂൻ 
-    1.1 husband's elder sister:
-    1.2 husband's younger sister :
-    1.3 elder brother's wife:
-    1.4 younger brother's wife:
-    1.5 wife's elder sister:
-    1.6 wife's younger sister:
+1. Sister in law : നാത്തൂൻ
+    1.1 husband's elder sister: മൂത്ത നാത്തൂൻ
+    1.2 husband's younger sister : ഇളയ നാത്തൂൻ
+    1.3 elder brother's wife: ചേട്ടത്തി
+    1.4 younger brother's wife: അനുജത്തി
+    1.5 wife's elder sister: ചേച്ചി
+    1.6 wife's younger sister: അനുജത്തി
     1.7 (and any other possible reln)[english explaination : reln in script]
-2. Brother in law: അളിയൻ 
-    2.1 wife's elder brother:
-    2.2 wife's younger brother:
-    2.3 elder sister's husband:
-    2.4 younger sister's husband:
-    2.5 husband's elder brother:
-    2.6 husband's younger brother:
+2. Brother in law: അളിയൻ
+    2.1 wife's elder brother: മൂത്ത അളിയൻ
+    2.2 wife's younger brother: ഇളയ അളിയൻ
+    2.3 elder sister's husband: ചേട്ടൻ
+    2.4 younger sister's husband: അനിയൻ
+    2.5 husband's elder brother: ചേട്ടൻ
+    2.6 husband's younger brother: അനിയൻ
     2.7 (and any other possible reln)[english explaination : reln in script] 
-3. Uncle : അമ്മാവൻ 
-    3.1 father's elder brother:
-    3.2 father's younger brother:
-    3.3 mother's elder brother:
-    3.4 mother's younger brother:
-    3.5 father's elder sister's husband:
-    3.6 father's younger sister's husband:
-    3.7 mother's elder sister's husband:
-    3.8 mother's younger sister's husband:
+3. Uncle : അമ്മാവൻ
+    3.1 father's elder brother: മൂത്ത അച്ഛൻ
+    3.2 father's younger brother: ചിറ്റപ്പൻ
+    3.3 mother's elder brother: മൂത്തമാമൻ
+    3.4 mother's younger brother:  ഇളയമാമൻ
+    3.5 father's elder sister's husband: മാമൻ
+    3.6 father's younger sister's husband: മാമൻ
+    3.7 mother's elder sister's husband: വല്ല്യച്ചൻ
+    3.8 mother's younger sister's husband: ചാച്ചൻ
     3.9 (and any other possible reln)[english explaination : reln in script]
     
-4. Aunt: അമ്മായി 
-    4.1 father's elder sister:
-    4.2 father's younger sister:
-    4.3 mother's elder sister:
-    4.4 mother's younger sister:
-    4.5 father's elder brother's wife:
-    4.6 father's younger brother's wife:
-    4.7 mother's elder brother's wife:
-    4.8 mother's younger brother's wife:
+4. Aunt: അമ്മാവി
+    4.1 father's elder sister: മുത്തഅപ്പച്ചി
+    4.2 father's younger sister: ഇളയ അപ്പച്ചി
+    4.3 mother's elder sister: വല്യമ്മ
+    4.4 mother's younger sister: കുഞ്ഞമ്മ
+    4.5 father's elder brother's wife: വല്ല്യമ്മ
+    4.6 father's younger brother's wife: കുഞ്ഞമ്മ
+    4.7 mother's elder brother's wife: വലിയ മാമി
+    4.8 mother's younger brother's wife: ചെറിയ മാമി
     4.9 (and any other possible reln)[english explaination : reln in script]
-5. Grandfather : അപ്പൂപ്പൻ 
-    5.1 father's father:
-    5.2 mother's father:
-    5.3 father's father's brother:
-    5.4 mother's father's brother:
+5. Grandfather : അപ്പൂപ്പൻ
+    5.1 father's father: വല്യച്ചൻ
+    5.2 mother's father: അപ്പൂപ്പൻ
+    5.3 father's father's brother: അച്ചാച്ചൻ
+    5.4 mother's father's brother: വല്ല്യച്ചൻ
     5.5 (and any other possible reln)[english explaination : reln in script]
-6. Grandmother: അമ്മൂമ്മ 
-    6.1 father's mother:
-    6.2 mother's mother:
-    6.3 father's mother's sister:
-    6.4 mother's mother's sister:
+6. Grandmother: മുത്തശ്ശി
+    6.1 father's mother: അച്ഛാമ്മ
+    6.2 mother's mother: അമ്മാമ്മ
+    6.3 father's mother's sister: അച്ഛാമ്മ
+    6.4 mother's mother's sister: അമ്മാമ്മ
     6.5 (and any other possible reln)[english explaination : reln in script]
 
 7. Nephew: അനന്തരവൻ / മരുമകൻ

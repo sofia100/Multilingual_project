@@ -32,3 +32,35 @@
 6. Grandmother:
     6.1 father's mother: ঠাকু মা (thaku ma)
     6.2 mother's mother: দিদি মা (didi ma)
+
+7. Nephew:
+    7.1 brother's son: ভাইপৌ
+    7.2 sister's son: বোনপৌ
+    7.3 (and any other possible reln)[english explaination : reln in script]: ভাইপো
+8. Niece:
+    8.1 brother's daughter: ভাইঝী
+    8.2 sister's daughter: বোনঝী
+    7.3 (and any other possible reln)[english explaination : reln in script]: ভাইঝী
+9. Cousin:
+    9.0 Does this depend on age and say simply brother and sister or call by names?
+    9.1 father's elder brother's son: জেঠতুতো দাদা/ভাই (দাদা when the cousin is elder, ভাই when cousin is younger) 
+    9.2 father's younger brother's son:  খুড়তুতো দাদা/ভাই
+    9.3 mother's elder brother's son: মামাতো দাদা/ভাই
+    9.4 mother's younger brother' son: মামাতো দাদা/ভাই
+    9.5 father's elder sister's son: পিসতুতো দাদা/ভাই
+    9.6 father's younger sister's son: পিসতুতো দাদা/ভাই
+    9.7 mother's elder sister's son: মাসতুতো দাদা/ভাই
+    9.8 mother's younger sister's son: মাসতুতো দাদা/ভাই
+    9.9 father's elder brother's daughter: জেঠতুতো দিদি/বোন (দিদি when  elder sister, বোনষষ when younger sister) 
+    9.10 father's younger brother's daughter:  খুড়তুতো দিদি/বোন
+    9.11 mother's elder brother's daughter: মামাতো দিদি/বোন
+    9.12 mother's younger brother' daughter: মামাতো দিদি/বোন
+    9.13 father's elder sister's daughter: পিসতুতো দিদি/বোন
+    9.14 father's younger sister's daughter: পিসতুতো দিদি/বোন
+    9.15 mother's elder sister's daughter: মাসতুতো দিদি/বোন
+    9.16 mother's younger sister's daughter: মাসতুতো দিদি/বোন
+    9.17 (and any other possible reln)[english explaination : reln in script]: We can always use দাদা/ভাই/দিদি/বোন if we don't know the exact relationship, and just want to describe cousin. 
+10. Child:
+   10.1  Boy child:ছেলে 
+   10.2 Girl child: মেয়ে
+

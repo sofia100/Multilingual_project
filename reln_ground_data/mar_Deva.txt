@@ -1,0 +1,80 @@
+1. Sister in law : 
+    1.1 husband's elder sister: नणंद 
+    1.2 husband's younger sister : नणंद 
+    1.3 elder brother's wife: वहिनी (if person is male)/ भावजय (if person is female)
+    1.4 younger brother's wife: वहिनी (if person is male)/ भावजय (if person is female) 
+    1.5 wife's elder sister: मेहुणी  / मेव्हणी
+    1.6 wife's younger sister: मेहुणी / मेव्हणी
+    1.7 (and any other possible reln)[english explaination : reln in script]
+2. Brother in law: 
+    2.1 wife's elder brother: मेहुणा / मेव्हणा
+    2.2 wife's younger brother: मेहुणा / मेव्हणा
+    2.3 elder sister's husband: दाजी / भाऊजी
+    2.4 younger sister's husband: दाजी / भाऊजी
+    2.5 husband's elder brother: दीर
+    2.6 husband's younger brother: दीर
+    2.7 (and any other possible reln)[english explaination : reln in script] 
+3. Uncle :
+    3.1 father's elder brother: काका 
+    3.2 father's younger brother: काका 
+    3.3 mother's elder brother: मामा 
+    3.4 mother's younger brother: मामा 
+    3.5 father's elder sister's husband: मामा / काका
+    3.6 father's younger sister's husband: मामा / काका
+    3.7 mother's elder sister's husband: मावसा / काका / मामा
+    3.8 mother's younger sister's husband: मावसा / काका / मामा
+    3.9 (and any other possible reln)[english explaination : reln in script]
+    
+4. Aunt:
+    4.1 father's elder sister: आत्या 
+    4.2 father's younger sister: आत्या 
+    4.3 mother's elder sister: मावशी 
+    4.4 mother's younger sister: मावशी 
+    4.5 father's elder brother's wife: काकू / काकी 
+    4.6 father's younger brother's wife: काकू / काकी
+    4.7 mother's elder brother's wife: मामी 
+    4.8 mother's younger brother's wife: मामी 
+    4.9 (and any other possible reln)[english explaination : reln in script]
+5. Grandfather :
+    5.1 father's father: आजोबा 
+    5.2 mother's father: आजोबा 
+    5.3 father's father's brother: चुलत आजोबा
+    5.4 mother's father's brother: NA
+    5.5 (and any other possible reln)[english explaination : reln in script]
+6. Grandmother:
+    6.1 father's mother: आजी
+    6.2 mother's mother: आजी 
+    6.3 father's mother's sister: मावस आजी
+    6.4 mother's mother's sister: मावस आजी
+    6.5 (and any other possible reln)[english explaination : reln in script]
+
+7. Nephew:
+    7.1 brother's son: पुतणा / भाचा
+    7.2 sister's son: भाचा 
+    7.3 (and any other possible reln)[english explaination : reln in script]
+8. Niece:
+    8.1 brother's daughter: पुतणी / भाची
+    8.2 sister's daughter: भाची
+    7.3 (and any other possible reln)[english explaination : reln in script]
+9. Cousin:
+    9.0 Does this depend on age and say simply brother and sister or call by names? Usually elder brothers are called दादा/ भैय्या and elder sister is called दीदी / ताई
+    9.1 father's elder brother's son: चुलत भाऊ
+    9.2 father's younger brother's son: चुलत भाऊ
+    9.3 mother's elder brother's son: मामे भाऊ
+    9.4 mother's younger brother' son: मामे भाऊ
+    9.5 father's elder sister's son: आत्ये भाऊ 
+    9.6 father's younger sister's son: आत्ये भाऊ
+    9.7 mother's elder sister's son: मावस भाऊ
+    9.8 mother's younger sister's son: मावस भाऊ
+    9.9 father's elder brother's daughter: चुलत बहीण
+    9.10 father's younger brother's daughter: चुलत बहीण
+    9.11 mother's elder brother's daughter: मामे बहीण
+    9.12 mother's younger brother' daughter: मामे बहीण
+    9.13 father's elder sister's daughter: आत्ये बहीण 
+    9.14 father's younger sister's daughter: आत्ये बहीण 
+    9.15 mother's elder sister's daughter: मावस बहीण
+    9.16 mother's younger sister's daughter: मावस बहीण
+    9.17 (and any other possible reln)[english explaination : reln in script]
+10. Child:
+   10.1  Boy child: मुलगा 
+   10.2 Girl child: मुलगी

@@ -51,3 +51,31 @@ Grandmother:
 6.2 Mother's mother: નાની
 6.3 Father's mother's sister: 
 6.4 Mother's mother's sister:
+
+7. Nephew:
+    7.1 brother's son: ભત્રીજો 
+    7.2 sister's son: ભાણેજ / ભાણો
+    7.3 (and any other possible reln)[english explaination : reln in script]
+8. Niece: 
+    8.1 brother's daughter: ભત્રીજી
+    8.2 sister's daughter: ભાણેજી / ભાણી
+    7.3 (and any other possible reln)[english explaination : reln in script]
+9. Cousin:
+    9.0 Does this depend on age and say simply brother and sister or call by names?
+    9.1 father's elder brother's son: કાકાનો દીકરો
+    9.2 father's younger brother's son:  કાકાનો દીકરો
+    9.3 mother's elder brother's son: મામાનો દીકરો
+    9.4 mother's younger brother' son: મામાનો દીકરો
+    9.5 father's elder sister's son: ફોઈનો દીકરો
+    9.6 father's younger sister's son: ફોઈનો દીકરો
+    9.7 mother's elder sister's son:  માસીનો દીકરો (ભાઈ) or   મસિયાઈ ભાઈ
+    9.8 mother's younger sister's son: માસીનો દીકરો (ભાઈ) or   મસિયાઈ ભાઈ
+    9.9 father's elder brother's daughter: કાકાની દીકરી 
+    9.10 father's younger brother's daughter: કાકાની દીકરી 
+    9.11 mother's elder brother's daughter: મામાની દીકરી
+    9.12 mother's younger brother' daughter: મામાની દીકરી
+    9.13 father's elder sister's daughter: ફોઈની દીકરી
+    9.14 father's younger sister's daughter: ફોઈની દીકરી
+    9.15 mother's elder sister's daughter: માસીની દીકરી  OR મસિયાઈ બહેન
+    9.16 mother's younger sister's daughter: માસીની દીકરી  OR મસિયાઈ બહેન
+    9.17 (and any other possible reln)[english explaination : reln in script]

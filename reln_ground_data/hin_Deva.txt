@@ -40,3 +40,35 @@
     6.2 mother's mother: नानी
     6.3 father's mother's sister: दादी
     6.4 mother's mother's sister: नानी
+
+
+7. Nephew:
+    7.1 brother's son: भतीजा
+    7.2 sister's son: भांजा
+    7.3 (and any other possible reln)[english explaination : reln in script]
+8. Niece:
+    8.1 brother's daughter: भतीजी
+    8.2 sister's daughter: भांजी
+    7.3 (and any other possible reln)[english explaination : reln in script]
+9. Cousin:
+    9.0 Does this depend on age and say simply brother and sister or call by names?
+    9.1 father's elder brother's son: भाई
+    9.2 father's younger brother's son: भाई
+    9.3 mother's elder brother's son: भाई
+    9.4 mother's younger brother' son: भाई
+    9.5 father's elder sister's son: भाई
+    9.6 father's younger sister's son: भाई
+    9.7 mother's elder sister's son: भाई
+    9.8 mother's younger sister's son: भाई
+    9.9 father's elder brother's daughter: बहन
+    9.10 father's younger brother's daughter: बहन
+    9.11 mother's elder brother's daughter: बहन
+    9.12 mother's younger brother' daughter: बहन
+    9.13 father's elder sister's daughter: बहन
+    9.14 father's younger sister's daughter: बहन
+    9.15 mother's elder sister's daughter: बहन
+    9.16 mother's younger sister's daughter: बहन
+    9.17 (and any other possible reln)[english explaination : reln in script]
+10. Child:
+   10.1  Boy child: बालक
+   10.2 Girl child: बालिका
