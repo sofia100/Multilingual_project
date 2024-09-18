@@ -59,6 +59,12 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "F",
             },
+             "पितामही": {
+                "description": "father of mother",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "M",
+            },
         },
         # kn done
         "kan_Knda": {
@@ -252,6 +258,20 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "M",
             },
+            # "प्रपितामह":{
+            #     "description": "father of father of father",
+            #     "relation": "paternal",
+            #     "relation_code": "M",
+            #     "gender": "M",
+            # },
+            "पितामह": {
+                "description": "father of father",
+                "relation": "paternal",
+                "relation_code": "M",
+                "gender": "M",
+            },
+           
+
         },
         # done
         "kan_Knda": {
@@ -1077,6 +1097,12 @@ possible_relations = {
                 "relation_code": "M",
                 "gender": "M",
             },
+            "बहनोई": {
+                "description": "elder sister's husband",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "M",
+            }
         },
         "kan_Knda": {
             "ಭಾವ": {
@@ -1800,6 +1826,24 @@ possible_relations = {
             },
         },
         "hin_Deva": {
+            "बच्चा": {
+                "description": "son",
+                "relation": "Both",
+                "relation_code": "B",
+                "gender": "M",
+            },
+            "बच्चे": {
+                "description": "son/daughter",
+                "relation": "Both",
+                "relation_code": "B",
+                "gender": "N",
+            },
+            "बच्ची": {
+                "description": "daughter",
+                "relation": "Both",
+                "relation_code": "B",
+                "gender": "F",
+            },
             "बालक": {
                 "description": "son",
                 "relation": "Both",
