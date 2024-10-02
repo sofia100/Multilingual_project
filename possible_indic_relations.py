@@ -29,6 +29,7 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "F",
             },
+            
         },
         # guj done
         "guj_Gujr": {
@@ -735,31 +736,31 @@ possible_relations = {
             },
         },
         "ben_Beng": {
-            "পিসি মা": {
+            "পিসি": {
                 "description": "father's sister",
                 "relation": "paternal",
                 "relation_code": "M",
                 "gender": "F",
             },
-            "মাসী মা": {
+            "মাসী": {
                 "description": "mother's sister",
                 "relation": "maternal",
                 "relation_code": "F",
                 "gender": "F",
             },
-            "মামী মা": {
+            "মামী": {
                 "description": "mother's brother's wife",
                 "relation": "maternal",
                 "relation_code": "F",
                 "gender": "F",
             },
-            "জেঠি মা": {
+            "জেঠি": {
                 "description": "father's elder brother's wife",
                 "relation": "paternal",
                 "relation_code": "M",
                 "gender": "F",
             },
-            "কাকি মা": {
+            "কাকি": {
                 "description": "father's younger brother's wife",
                 "relation": "paternal",
                 "relation_code": "M",
@@ -1027,7 +1028,19 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "M",
             },
-            "জামাই বাবু ": {
+            "শালা": {
+                "description": "wife's  brother",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "M",
+            },
+            "জামাই বাবু": {
+                "description": "elder sister's husband",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "M",
+            },
+            "জামাই": {
                 "description": "elder sister's husband",
                 "relation": "maternal",
                 "relation_code": "F",
@@ -1315,6 +1328,12 @@ possible_relations = {
                 "relation_code": "M",
                 "gender": "F",
             },
+            "ননদ": {
+                "description": "husband's sister",
+                "relation": "paternal",
+                "relation_code": "M",
+                "gender": "F",
+            },
             "বড়ো জা": {
                 "description": "elder brother's wife",
                 "relation": "paternal",
@@ -1327,6 +1346,12 @@ possible_relations = {
                 "relation_code": "M",
                 "gender": "F",
             },
+            "জা": {
+                "description": "brother's wife",
+                "relation": "paternal",
+                "relation_code": "M",
+                "gender": "F",
+            },
             "বড়ো শালী": {
                 "description": "wife's elder sister",
                 "relation": "maternal",
@@ -1335,6 +1360,12 @@ possible_relations = {
             },
             "ছোট শালী": {
                 "description": "wife's younger sister",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "F",
+            },
+            "শালী": {
+                "description": "wife's sister",
                 "relation": "maternal",
                 "relation_code": "F",
                 "gender": "F",
@@ -1797,13 +1828,19 @@ possible_relations = {
             },
         },
         "ben_Beng": {
+             "শিশু": {
+                "description": "child",
+                "relation": "Both",
+                "relation_code": "B",
+                "gender": "N",  # gender Neutral
+            },
             "ছেলে": {
                 "description": "son",
                 "relation": "Both",
                 "relation_code": "B",
                 "gender": "M",
             },
-            " মেয়ে": {
+            "মেয়ে": {
                 "description": "daughter",
                 "relation": "Both",
                 "relation_code": "B",
