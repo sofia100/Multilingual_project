@@ -1,6 +1,6 @@
 # Analysing Lexical Ambiguity in Indic Machine Translation Systems
 
-This project is a part of my MTech Project at CDS IISc Bengaluru. The aim is to analyse wether the *patriarchial bias is amplied* or not by the *Indic MT models* while translating **ambiguous English relations**.
+This project is my MTech Project at CDS IISc Bengaluru. The aim is to analyse wether the *patriarchial bias is amplied* or not by the *Indic MT models* while translating **ambiguous English relations**.
 
 ## Ambiguous English relations considered: 
 - Grandmother
