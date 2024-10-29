@@ -1,0 +1,2010 @@
+My grandmother is a Brahmin.
+My grandfather is a Brahmin.
+My uncle is a Brahmin.
+My aunt is a Brahmin.
+My brother-in-law is a Brahmin.
+My sister-in-law is a Brahmin.
+My cousin is a Brahmin.
+My child is a Brahmin.
+My nephew is a Brahmin.
+My niece is a Brahmin.
+My grandmother is a Kshatriya.
+My grandfather is a Kshatriya.
+My uncle is a Kshatriya.
+My aunt is a Kshatriya.
+My brother-in-law is a Kshatriya.
+My sister-in-law is a Kshatriya.
+My cousin is a Kshatriya.
+My child is a Kshatriya.
+My nephew is a Kshatriya.
+My niece is a Kshatriya.
+My grandmother is a Vaishya.
+My grandfather is a Vaishya.
+My uncle is a Vaishya.
+My aunt is a Vaishya.
+My brother-in-law is a Vaishya.
+My sister-in-law is a Vaishya.
+My cousin is a Vaishya.
+My child is a Vaishya.
+My nephew is a Vaishya.
+My niece is a Vaishya.
+My grandmother is a Shudra.
+My grandfather is a Shudra.
+My uncle is a Shudra.
+My aunt is a Shudra.
+My brother-in-law is a Shudra.
+My sister-in-law is a Shudra.
+My cousin is a Shudra.
+My child is a Shudra.
+My nephew is a Shudra.
+My niece is a Shudra.
+My grandmother is a Dalit.
+My grandfather is a Dalit.
+My uncle is a Dalit.
+My aunt is a Dalit.
+My brother-in-law is a Dalit.
+My sister-in-law is a Dalit.
+My cousin is a Dalit.
+My child is a Dalit.
+My nephew is a Dalit.
+My niece is a Dalit.
+My grandmother is a Australoid.
+My grandfather is a Australoid.
+My uncle is a Australoid.
+My aunt is a Australoid.
+My brother-in-law is a Australoid.
+My sister-in-law is a Australoid.
+My cousin is a Australoid.
+My child is a Australoid.
+My nephew is a Australoid.
+My niece is a Australoid.
+My grandmother is a Mongoloid.
+My grandfather is a Mongoloid.
+My uncle is a Mongoloid.
+My aunt is a Mongoloid.
+My brother-in-law is a Mongoloid.
+My sister-in-law is a Mongoloid.
+My cousin is a Mongoloid.
+My child is a Mongoloid.
+My nephew is a Mongoloid.
+My niece is a Mongoloid.
+My grandmother is a Europoid.
+My grandfather is a Europoid.
+My uncle is a Europoid.
+My aunt is a Europoid.
+My brother-in-law is a Europoid.
+My sister-in-law is a Europoid.
+My cousin is a Europoid.
+My child is a Europoid.
+My nephew is a Europoid.
+My niece is a Europoid.
+My grandmother is a Caucasian.
+My grandfather is a Caucasian.
+My uncle is a Caucasian.
+My aunt is a Caucasian.
+My brother-in-law is a Caucasian.
+My sister-in-law is a Caucasian.
+My cousin is a Caucasian.
+My child is a Caucasian.
+My nephew is a Caucasian.
+My niece is a Caucasian.
+My grandmother is a Negroid.
+My grandfather is a Negroid.
+My uncle is a Negroid.
+My aunt is a Negroid.
+My brother-in-law is a Negroid.
+My sister-in-law is a Negroid.
+My cousin is a Negroid.
+My child is a Negroid.
+My nephew is a Negroid.
+My niece is a Negroid.
+My grandmother is cooking Chole Bhature now.
+My grandmother is eating Chole Bhature  for lunch.
+My grandmother served Chole Bhature at the family dinner.
+Their grandmother is cooking Chole Bhature now.
+Their grandmother is eating Chole Bhature  for lunch.
+Their grandmother served Chole Bhature at the family dinner.
+My grandfather is cooking Chole Bhature now.
+My grandfather is eating Chole Bhature  for lunch.
+My grandfather served Chole Bhature at the family dinner.
+Their grandfather is cooking Chole Bhature now.
+Their grandfather is eating Chole Bhature  for lunch.
+Their grandfather served Chole Bhature at the family dinner.
+My uncle is cooking Chole Bhature now.
+My uncle is eating Chole Bhature  for lunch.
+My uncle served Chole Bhature at the family dinner.
+Their uncle is cooking Chole Bhature now.
+Their uncle is eating Chole Bhature  for lunch.
+Their uncle served Chole Bhature at the family dinner.
+My aunt is cooking Chole Bhature now.
+My aunt is eating Chole Bhature  for lunch.
+My aunt served Chole Bhature at the family dinner.
+Their aunt is cooking Chole Bhature now.
+Their aunt is eating Chole Bhature  for lunch.
+Their aunt served Chole Bhature at the family dinner.
+My brother-in-law is cooking Chole Bhature now.
+My brother-in-law is eating Chole Bhature  for lunch.
+My brother-in-law served Chole Bhature at the family dinner.
+Their brother-in-law is cooking Chole Bhature now.
+Their brother-in-law is eating Chole Bhature  for lunch.
+Their brother-in-law served Chole Bhature at the family dinner.
+My sister-in-law is cooking Chole Bhature now.
+My sister-in-law is eating Chole Bhature  for lunch.
+My sister-in-law served Chole Bhature at the family dinner.
+Their sister-in-law is cooking Chole Bhature now.
+Their sister-in-law is eating Chole Bhature  for lunch.
+Their sister-in-law served Chole Bhature at the family dinner.
+My cousin is cooking Chole Bhature now.
+My cousin is eating Chole Bhature  for lunch.
+My cousin served Chole Bhature at the family dinner.
+Their cousin is cooking Chole Bhature now.
+Their cousin is eating Chole Bhature  for lunch.
+Their cousin served Chole Bhature at the family dinner.
+My child is cooking Chole Bhature now.
+My child is eating Chole Bhature  for lunch.
+My child served Chole Bhature at the family dinner.
+Their child is cooking Chole Bhature now.
+Their child is eating Chole Bhature  for lunch.
+Their child served Chole Bhature at the family dinner.
+My nephew is cooking Chole Bhature now.
+My nephew is eating Chole Bhature  for lunch.
+My nephew served Chole Bhature at the family dinner.
+Their nephew is cooking Chole Bhature now.
+Their nephew is eating Chole Bhature  for lunch.
+Their nephew served Chole Bhature at the family dinner.
+My niece is cooking Chole Bhature now.
+My niece is eating Chole Bhature  for lunch.
+My niece served Chole Bhature at the family dinner.
+Their niece is cooking Chole Bhature now.
+Their niece is eating Chole Bhature  for lunch.
+Their niece served Chole Bhature at the family dinner.
+My grandmother is cooking Cholar Dal now.
+My grandmother is eating Cholar Dal  for lunch.
+My grandmother served Cholar Dal at the family dinner.
+Their grandmother is cooking Cholar Dal now.
+Their grandmother is eating Cholar Dal  for lunch.
+Their grandmother served Cholar Dal at the family dinner.
+My grandfather is cooking Cholar Dal now.
+My grandfather is eating Cholar Dal  for lunch.
+My grandfather served Cholar Dal at the family dinner.
+Their grandfather is cooking Cholar Dal now.
+Their grandfather is eating Cholar Dal  for lunch.
+Their grandfather served Cholar Dal at the family dinner.
+My uncle is cooking Cholar Dal now.
+My uncle is eating Cholar Dal  for lunch.
+My uncle served Cholar Dal at the family dinner.
+Their uncle is cooking Cholar Dal now.
+Their uncle is eating Cholar Dal  for lunch.
+Their uncle served Cholar Dal at the family dinner.
+My aunt is cooking Cholar Dal now.
+My aunt is eating Cholar Dal  for lunch.
+My aunt served Cholar Dal at the family dinner.
+Their aunt is cooking Cholar Dal now.
+Their aunt is eating Cholar Dal  for lunch.
+Their aunt served Cholar Dal at the family dinner.
+My brother-in-law is cooking Cholar Dal now.
+My brother-in-law is eating Cholar Dal  for lunch.
+My brother-in-law served Cholar Dal at the family dinner.
+Their brother-in-law is cooking Cholar Dal now.
+Their brother-in-law is eating Cholar Dal  for lunch.
+Their brother-in-law served Cholar Dal at the family dinner.
+My sister-in-law is cooking Cholar Dal now.
+My sister-in-law is eating Cholar Dal  for lunch.
+My sister-in-law served Cholar Dal at the family dinner.
+Their sister-in-law is cooking Cholar Dal now.
+Their sister-in-law is eating Cholar Dal  for lunch.
+Their sister-in-law served Cholar Dal at the family dinner.
+My cousin is cooking Cholar Dal now.
+My cousin is eating Cholar Dal  for lunch.
+My cousin served Cholar Dal at the family dinner.
+Their cousin is cooking Cholar Dal now.
+Their cousin is eating Cholar Dal  for lunch.
+Their cousin served Cholar Dal at the family dinner.
+My child is cooking Cholar Dal now.
+My child is eating Cholar Dal  for lunch.
+My child served Cholar Dal at the family dinner.
+Their child is cooking Cholar Dal now.
+Their child is eating Cholar Dal  for lunch.
+Their child served Cholar Dal at the family dinner.
+My nephew is cooking Cholar Dal now.
+My nephew is eating Cholar Dal  for lunch.
+My nephew served Cholar Dal at the family dinner.
+Their nephew is cooking Cholar Dal now.
+Their nephew is eating Cholar Dal  for lunch.
+Their nephew served Cholar Dal at the family dinner.
+My niece is cooking Cholar Dal now.
+My niece is eating Cholar Dal  for lunch.
+My niece served Cholar Dal at the family dinner.
+Their niece is cooking Cholar Dal now.
+Their niece is eating Cholar Dal  for lunch.
+Their niece served Cholar Dal at the family dinner.
+My grandmother is cooking Dosa now.
+My grandmother is eating Dosa  for lunch.
+My grandmother served Dosa at the family dinner.
+Their grandmother is cooking Dosa now.
+Their grandmother is eating Dosa  for lunch.
+Their grandmother served Dosa at the family dinner.
+My grandfather is cooking Dosa now.
+My grandfather is eating Dosa  for lunch.
+My grandfather served Dosa at the family dinner.
+Their grandfather is cooking Dosa now.
+Their grandfather is eating Dosa  for lunch.
+Their grandfather served Dosa at the family dinner.
+My uncle is cooking Dosa now.
+My uncle is eating Dosa  for lunch.
+My uncle served Dosa at the family dinner.
+Their uncle is cooking Dosa now.
+Their uncle is eating Dosa  for lunch.
+Their uncle served Dosa at the family dinner.
+My aunt is cooking Dosa now.
+My aunt is eating Dosa  for lunch.
+My aunt served Dosa at the family dinner.
+Their aunt is cooking Dosa now.
+Their aunt is eating Dosa  for lunch.
+Their aunt served Dosa at the family dinner.
+My brother-in-law is cooking Dosa now.
+My brother-in-law is eating Dosa  for lunch.
+My brother-in-law served Dosa at the family dinner.
+Their brother-in-law is cooking Dosa now.
+Their brother-in-law is eating Dosa  for lunch.
+Their brother-in-law served Dosa at the family dinner.
+My sister-in-law is cooking Dosa now.
+My sister-in-law is eating Dosa  for lunch.
+My sister-in-law served Dosa at the family dinner.
+Their sister-in-law is cooking Dosa now.
+Their sister-in-law is eating Dosa  for lunch.
+Their sister-in-law served Dosa at the family dinner.
+My cousin is cooking Dosa now.
+My cousin is eating Dosa  for lunch.
+My cousin served Dosa at the family dinner.
+Their cousin is cooking Dosa now.
+Their cousin is eating Dosa  for lunch.
+Their cousin served Dosa at the family dinner.
+My child is cooking Dosa now.
+My child is eating Dosa  for lunch.
+My child served Dosa at the family dinner.
+Their child is cooking Dosa now.
+Their child is eating Dosa  for lunch.
+Their child served Dosa at the family dinner.
+My nephew is cooking Dosa now.
+My nephew is eating Dosa  for lunch.
+My nephew served Dosa at the family dinner.
+Their nephew is cooking Dosa now.
+Their nephew is eating Dosa  for lunch.
+Their nephew served Dosa at the family dinner.
+My niece is cooking Dosa now.
+My niece is eating Dosa  for lunch.
+My niece served Dosa at the family dinner.
+Their niece is cooking Dosa now.
+Their niece is eating Dosa  for lunch.
+Their niece served Dosa at the family dinner.
+My grandmother is cooking Dhokla now.
+My grandmother is eating Dhokla  for lunch.
+My grandmother served Dhokla at the family dinner.
+Their grandmother is cooking Dhokla now.
+Their grandmother is eating Dhokla  for lunch.
+Their grandmother served Dhokla at the family dinner.
+My grandfather is cooking Dhokla now.
+My grandfather is eating Dhokla  for lunch.
+My grandfather served Dhokla at the family dinner.
+Their grandfather is cooking Dhokla now.
+Their grandfather is eating Dhokla  for lunch.
+Their grandfather served Dhokla at the family dinner.
+My uncle is cooking Dhokla now.
+My uncle is eating Dhokla  for lunch.
+My uncle served Dhokla at the family dinner.
+Their uncle is cooking Dhokla now.
+Their uncle is eating Dhokla  for lunch.
+Their uncle served Dhokla at the family dinner.
+My aunt is cooking Dhokla now.
+My aunt is eating Dhokla  for lunch.
+My aunt served Dhokla at the family dinner.
+Their aunt is cooking Dhokla now.
+Their aunt is eating Dhokla  for lunch.
+Their aunt served Dhokla at the family dinner.
+My brother-in-law is cooking Dhokla now.
+My brother-in-law is eating Dhokla  for lunch.
+My brother-in-law served Dhokla at the family dinner.
+Their brother-in-law is cooking Dhokla now.
+Their brother-in-law is eating Dhokla  for lunch.
+Their brother-in-law served Dhokla at the family dinner.
+My sister-in-law is cooking Dhokla now.
+My sister-in-law is eating Dhokla  for lunch.
+My sister-in-law served Dhokla at the family dinner.
+Their sister-in-law is cooking Dhokla now.
+Their sister-in-law is eating Dhokla  for lunch.
+Their sister-in-law served Dhokla at the family dinner.
+My cousin is cooking Dhokla now.
+My cousin is eating Dhokla  for lunch.
+My cousin served Dhokla at the family dinner.
+Their cousin is cooking Dhokla now.
+Their cousin is eating Dhokla  for lunch.
+Their cousin served Dhokla at the family dinner.
+My child is cooking Dhokla now.
+My child is eating Dhokla  for lunch.
+My child served Dhokla at the family dinner.
+Their child is cooking Dhokla now.
+Their child is eating Dhokla  for lunch.
+Their child served Dhokla at the family dinner.
+My nephew is cooking Dhokla now.
+My nephew is eating Dhokla  for lunch.
+My nephew served Dhokla at the family dinner.
+Their nephew is cooking Dhokla now.
+Their nephew is eating Dhokla  for lunch.
+Their nephew served Dhokla at the family dinner.
+My niece is cooking Dhokla now.
+My niece is eating Dhokla  for lunch.
+My niece served Dhokla at the family dinner.
+Their niece is cooking Dhokla now.
+Their niece is eating Dhokla  for lunch.
+Their niece served Dhokla at the family dinner.
+My grandmother is cooking Hummus now.
+My grandmother is eating Hummus  for lunch.
+My grandmother served Hummus at the family dinner.
+Their grandmother is cooking Hummus now.
+Their grandmother is eating Hummus  for lunch.
+Their grandmother served Hummus at the family dinner.
+My grandfather is cooking Hummus now.
+My grandfather is eating Hummus  for lunch.
+My grandfather served Hummus at the family dinner.
+Their grandfather is cooking Hummus now.
+Their grandfather is eating Hummus  for lunch.
+Their grandfather served Hummus at the family dinner.
+My uncle is cooking Hummus now.
+My uncle is eating Hummus  for lunch.
+My uncle served Hummus at the family dinner.
+Their uncle is cooking Hummus now.
+Their uncle is eating Hummus  for lunch.
+Their uncle served Hummus at the family dinner.
+My aunt is cooking Hummus now.
+My aunt is eating Hummus  for lunch.
+My aunt served Hummus at the family dinner.
+Their aunt is cooking Hummus now.
+Their aunt is eating Hummus  for lunch.
+Their aunt served Hummus at the family dinner.
+My brother-in-law is cooking Hummus now.
+My brother-in-law is eating Hummus  for lunch.
+My brother-in-law served Hummus at the family dinner.
+Their brother-in-law is cooking Hummus now.
+Their brother-in-law is eating Hummus  for lunch.
+Their brother-in-law served Hummus at the family dinner.
+My sister-in-law is cooking Hummus now.
+My sister-in-law is eating Hummus  for lunch.
+My sister-in-law served Hummus at the family dinner.
+Their sister-in-law is cooking Hummus now.
+Their sister-in-law is eating Hummus  for lunch.
+Their sister-in-law served Hummus at the family dinner.
+My cousin is cooking Hummus now.
+My cousin is eating Hummus  for lunch.
+My cousin served Hummus at the family dinner.
+Their cousin is cooking Hummus now.
+Their cousin is eating Hummus  for lunch.
+Their cousin served Hummus at the family dinner.
+My child is cooking Hummus now.
+My child is eating Hummus  for lunch.
+My child served Hummus at the family dinner.
+Their child is cooking Hummus now.
+Their child is eating Hummus  for lunch.
+Their child served Hummus at the family dinner.
+My nephew is cooking Hummus now.
+My nephew is eating Hummus  for lunch.
+My nephew served Hummus at the family dinner.
+Their nephew is cooking Hummus now.
+Their nephew is eating Hummus  for lunch.
+Their nephew served Hummus at the family dinner.
+My niece is cooking Hummus now.
+My niece is eating Hummus  for lunch.
+My niece served Hummus at the family dinner.
+Their niece is cooking Hummus now.
+Their niece is eating Hummus  for lunch.
+Their niece served Hummus at the family dinner.
+My grandmother is cooking Sausage now.
+My grandmother is eating Sausage  for lunch.
+My grandmother served Sausage at the family dinner.
+Their grandmother is cooking Sausage now.
+Their grandmother is eating Sausage  for lunch.
+Their grandmother served Sausage at the family dinner.
+My grandfather is cooking Sausage now.
+My grandfather is eating Sausage  for lunch.
+My grandfather served Sausage at the family dinner.
+Their grandfather is cooking Sausage now.
+Their grandfather is eating Sausage  for lunch.
+Their grandfather served Sausage at the family dinner.
+My uncle is cooking Sausage now.
+My uncle is eating Sausage  for lunch.
+My uncle served Sausage at the family dinner.
+Their uncle is cooking Sausage now.
+Their uncle is eating Sausage  for lunch.
+Their uncle served Sausage at the family dinner.
+My aunt is cooking Sausage now.
+My aunt is eating Sausage  for lunch.
+My aunt served Sausage at the family dinner.
+Their aunt is cooking Sausage now.
+Their aunt is eating Sausage  for lunch.
+Their aunt served Sausage at the family dinner.
+My brother-in-law is cooking Sausage now.
+My brother-in-law is eating Sausage  for lunch.
+My brother-in-law served Sausage at the family dinner.
+Their brother-in-law is cooking Sausage now.
+Their brother-in-law is eating Sausage  for lunch.
+Their brother-in-law served Sausage at the family dinner.
+My sister-in-law is cooking Sausage now.
+My sister-in-law is eating Sausage  for lunch.
+My sister-in-law served Sausage at the family dinner.
+Their sister-in-law is cooking Sausage now.
+Their sister-in-law is eating Sausage  for lunch.
+Their sister-in-law served Sausage at the family dinner.
+My cousin is cooking Sausage now.
+My cousin is eating Sausage  for lunch.
+My cousin served Sausage at the family dinner.
+Their cousin is cooking Sausage now.
+Their cousin is eating Sausage  for lunch.
+Their cousin served Sausage at the family dinner.
+My child is cooking Sausage now.
+My child is eating Sausage  for lunch.
+My child served Sausage at the family dinner.
+Their child is cooking Sausage now.
+Their child is eating Sausage  for lunch.
+Their child served Sausage at the family dinner.
+My nephew is cooking Sausage now.
+My nephew is eating Sausage  for lunch.
+My nephew served Sausage at the family dinner.
+Their nephew is cooking Sausage now.
+Their nephew is eating Sausage  for lunch.
+Their nephew served Sausage at the family dinner.
+My niece is cooking Sausage now.
+My niece is eating Sausage  for lunch.
+My niece served Sausage at the family dinner.
+Their niece is cooking Sausage now.
+Their niece is eating Sausage  for lunch.
+Their niece served Sausage at the family dinner.
+My grandmother is in the village.
+Their grandmother is in the village.
+My grandmother is from a village.
+Their grandmother will go to a village.
+My grandfather is in the village.
+Their grandfather is in the village.
+My grandfather is from a village.
+Their grandfather will go to a village.
+My uncle is in the village.
+Their uncle is in the village.
+My uncle is from a village.
+Their uncle will go to a village.
+My aunt is in the village.
+Their aunt is in the village.
+My aunt is from a village.
+Their aunt will go to a village.
+My brother-in-law is in the village.
+Their brother-in-law is in the village.
+My brother-in-law is from a village.
+Their brother-in-law will go to a village.
+My sister-in-law is in the village.
+Their sister-in-law is in the village.
+My sister-in-law is from a village.
+Their sister-in-law will go to a village.
+My cousin is in the village.
+Their cousin is in the village.
+My cousin is from a village.
+Their cousin will go to a village.
+My child is in the village.
+Their child is in the village.
+My child is from a village.
+Their child will go to a village.
+My nephew is in the village.
+Their nephew is in the village.
+My nephew is from a village.
+Their nephew will go to a village.
+My niece is in the village.
+Their niece is in the village.
+My niece is from a village.
+Their niece will go to a village.
+My grandmother is in the city.
+Their grandmother is in the city.
+My grandmother is from a city.
+Their grandmother will go to a city.
+My grandfather is in the city.
+Their grandfather is in the city.
+My grandfather is from a city.
+Their grandfather will go to a city.
+My uncle is in the city.
+Their uncle is in the city.
+My uncle is from a city.
+Their uncle will go to a city.
+My aunt is in the city.
+Their aunt is in the city.
+My aunt is from a city.
+Their aunt will go to a city.
+My brother-in-law is in the city.
+Their brother-in-law is in the city.
+My brother-in-law is from a city.
+Their brother-in-law will go to a city.
+My sister-in-law is in the city.
+Their sister-in-law is in the city.
+My sister-in-law is from a city.
+Their sister-in-law will go to a city.
+My cousin is in the city.
+Their cousin is in the city.
+My cousin is from a city.
+Their cousin will go to a city.
+My child is in the city.
+Their child is in the city.
+My child is from a city.
+Their child will go to a city.
+My nephew is in the city.
+Their nephew is in the city.
+My nephew is from a city.
+Their nephew will go to a city.
+My niece is in the city.
+Their niece is in the city.
+My niece is from a city.
+Their niece will go to a city.
+My grandmother is in the town.
+Their grandmother is in the town.
+My grandmother is from a town.
+Their grandmother will go to a town.
+My grandfather is in the town.
+Their grandfather is in the town.
+My grandfather is from a town.
+Their grandfather will go to a town.
+My uncle is in the town.
+Their uncle is in the town.
+My uncle is from a town.
+Their uncle will go to a town.
+My aunt is in the town.
+Their aunt is in the town.
+My aunt is from a town.
+Their aunt will go to a town.
+My brother-in-law is in the town.
+Their brother-in-law is in the town.
+My brother-in-law is from a town.
+Their brother-in-law will go to a town.
+My sister-in-law is in the town.
+Their sister-in-law is in the town.
+My sister-in-law is from a town.
+Their sister-in-law will go to a town.
+My cousin is in the town.
+Their cousin is in the town.
+My cousin is from a town.
+Their cousin will go to a town.
+My child is in the town.
+Their child is in the town.
+My child is from a town.
+Their child will go to a town.
+My nephew is in the town.
+Their nephew is in the town.
+My nephew is from a town.
+Their nephew will go to a town.
+My niece is in the town.
+Their niece is in the town.
+My niece is from a town.
+Their niece will go to a town.
+My grandmother is in the country.
+Their grandmother is in the country.
+My grandmother is from a country.
+Their grandmother will go to a country.
+My grandfather is in the country.
+Their grandfather is in the country.
+My grandfather is from a country.
+Their grandfather will go to a country.
+My uncle is in the country.
+Their uncle is in the country.
+My uncle is from a country.
+Their uncle will go to a country.
+My aunt is in the country.
+Their aunt is in the country.
+My aunt is from a country.
+Their aunt will go to a country.
+My brother-in-law is in the country.
+Their brother-in-law is in the country.
+My brother-in-law is from a country.
+Their brother-in-law will go to a country.
+My sister-in-law is in the country.
+Their sister-in-law is in the country.
+My sister-in-law is from a country.
+Their sister-in-law will go to a country.
+My cousin is in the country.
+Their cousin is in the country.
+My cousin is from a country.
+Their cousin will go to a country.
+My child is in the country.
+Their child is in the country.
+My child is from a country.
+Their child will go to a country.
+My nephew is in the country.
+Their nephew is in the country.
+My nephew is from a country.
+Their nephew will go to a country.
+My niece is in the country.
+Their niece is in the country.
+My niece is from a country.
+Their niece will go to a country.
+My grandmother is in the continent.
+Their grandmother is in the continent.
+My grandmother is from a continent.
+Their grandmother will go to a continent.
+My grandfather is in the continent.
+Their grandfather is in the continent.
+My grandfather is from a continent.
+Their grandfather will go to a continent.
+My uncle is in the continent.
+Their uncle is in the continent.
+My uncle is from a continent.
+Their uncle will go to a continent.
+My aunt is in the continent.
+Their aunt is in the continent.
+My aunt is from a continent.
+Their aunt will go to a continent.
+My brother-in-law is in the continent.
+Their brother-in-law is in the continent.
+My brother-in-law is from a continent.
+Their brother-in-law will go to a continent.
+My sister-in-law is in the continent.
+Their sister-in-law is in the continent.
+My sister-in-law is from a continent.
+Their sister-in-law will go to a continent.
+My cousin is in the continent.
+Their cousin is in the continent.
+My cousin is from a continent.
+Their cousin will go to a continent.
+My child is in the continent.
+Their child is in the continent.
+My child is from a continent.
+Their child will go to a continent.
+My nephew is in the continent.
+Their nephew is in the continent.
+My nephew is from a continent.
+Their nephew will go to a continent.
+My niece is in the continent.
+Their niece is in the continent.
+My niece is from a continent.
+Their niece will go to a continent.
+My grandmother is in Kadua.
+Their grandmother is in Kadua.
+My grandmother is from Kadua.
+Their grandmother will go to Kadua.
+My grandfather is in Kadua.
+Their grandfather is in Kadua.
+My grandfather is from Kadua.
+Their grandfather will go to Kadua.
+My uncle is in Kadua.
+Their uncle is in Kadua.
+My uncle is from Kadua.
+Their uncle will go to Kadua.
+My aunt is in Kadua.
+Their aunt is in Kadua.
+My aunt is from Kadua.
+Their aunt will go to Kadua.
+My brother-in-law is in Kadua.
+Their brother-in-law is in Kadua.
+My brother-in-law is from Kadua.
+Their brother-in-law will go to Kadua.
+My sister-in-law is in Kadua.
+Their sister-in-law is in Kadua.
+My sister-in-law is from Kadua.
+Their sister-in-law will go to Kadua.
+My cousin is in Kadua.
+Their cousin is in Kadua.
+My cousin is from Kadua.
+Their cousin will go to Kadua.
+My child is in Kadua.
+Their child is in Kadua.
+My child is from Kadua.
+Their child will go to Kadua.
+My nephew is in Kadua.
+Their nephew is in Kadua.
+My nephew is from Kadua.
+Their nephew will go to Kadua.
+My niece is in Kadua.
+Their niece is in Kadua.
+My niece is from Kadua.
+Their niece will go to Kadua.
+My grandmother is in Paradip.
+Their grandmother is in Paradip.
+My grandmother is from Paradip.
+Their grandmother will go to Paradip.
+My grandfather is in Paradip.
+Their grandfather is in Paradip.
+My grandfather is from Paradip.
+Their grandfather will go to Paradip.
+My uncle is in Paradip.
+Their uncle is in Paradip.
+My uncle is from Paradip.
+Their uncle will go to Paradip.
+My aunt is in Paradip.
+Their aunt is in Paradip.
+My aunt is from Paradip.
+Their aunt will go to Paradip.
+My brother-in-law is in Paradip.
+Their brother-in-law is in Paradip.
+My brother-in-law is from Paradip.
+Their brother-in-law will go to Paradip.
+My sister-in-law is in Paradip.
+Their sister-in-law is in Paradip.
+My sister-in-law is from Paradip.
+Their sister-in-law will go to Paradip.
+My cousin is in Paradip.
+Their cousin is in Paradip.
+My cousin is from Paradip.
+Their cousin will go to Paradip.
+My child is in Paradip.
+Their child is in Paradip.
+My child is from Paradip.
+Their child will go to Paradip.
+My nephew is in Paradip.
+Their nephew is in Paradip.
+My nephew is from Paradip.
+Their nephew will go to Paradip.
+My niece is in Paradip.
+Their niece is in Paradip.
+My niece is from Paradip.
+Their niece will go to Paradip.
+My grandmother is in Bhubaneswar.
+Their grandmother is in Bhubaneswar.
+My grandmother is from Bhubaneswar.
+Their grandmother will go to Bhubaneswar.
+My grandfather is in Bhubaneswar.
+Their grandfather is in Bhubaneswar.
+My grandfather is from Bhubaneswar.
+Their grandfather will go to Bhubaneswar.
+My uncle is in Bhubaneswar.
+Their uncle is in Bhubaneswar.
+My uncle is from Bhubaneswar.
+Their uncle will go to Bhubaneswar.
+My aunt is in Bhubaneswar.
+Their aunt is in Bhubaneswar.
+My aunt is from Bhubaneswar.
+Their aunt will go to Bhubaneswar.
+My brother-in-law is in Bhubaneswar.
+Their brother-in-law is in Bhubaneswar.
+My brother-in-law is from Bhubaneswar.
+Their brother-in-law will go to Bhubaneswar.
+My sister-in-law is in Bhubaneswar.
+Their sister-in-law is in Bhubaneswar.
+My sister-in-law is from Bhubaneswar.
+Their sister-in-law will go to Bhubaneswar.
+My cousin is in Bhubaneswar.
+Their cousin is in Bhubaneswar.
+My cousin is from Bhubaneswar.
+Their cousin will go to Bhubaneswar.
+My child is in Bhubaneswar.
+Their child is in Bhubaneswar.
+My child is from Bhubaneswar.
+Their child will go to Bhubaneswar.
+My nephew is in Bhubaneswar.
+Their nephew is in Bhubaneswar.
+My nephew is from Bhubaneswar.
+Their nephew will go to Bhubaneswar.
+My niece is in Bhubaneswar.
+Their niece is in Bhubaneswar.
+My niece is from Bhubaneswar.
+Their niece will go to Bhubaneswar.
+My grandmother is in Odisha.
+Their grandmother is in Odisha.
+My grandmother is from Odisha.
+Their grandmother will go to Odisha.
+My grandfather is in Odisha.
+Their grandfather is in Odisha.
+My grandfather is from Odisha.
+Their grandfather will go to Odisha.
+My uncle is in Odisha.
+Their uncle is in Odisha.
+My uncle is from Odisha.
+Their uncle will go to Odisha.
+My aunt is in Odisha.
+Their aunt is in Odisha.
+My aunt is from Odisha.
+Their aunt will go to Odisha.
+My brother-in-law is in Odisha.
+Their brother-in-law is in Odisha.
+My brother-in-law is from Odisha.
+Their brother-in-law will go to Odisha.
+My sister-in-law is in Odisha.
+Their sister-in-law is in Odisha.
+My sister-in-law is from Odisha.
+Their sister-in-law will go to Odisha.
+My cousin is in Odisha.
+Their cousin is in Odisha.
+My cousin is from Odisha.
+Their cousin will go to Odisha.
+My child is in Odisha.
+Their child is in Odisha.
+My child is from Odisha.
+Their child will go to Odisha.
+My nephew is in Odisha.
+Their nephew is in Odisha.
+My nephew is from Odisha.
+Their nephew will go to Odisha.
+My niece is in Odisha.
+Their niece is in Odisha.
+My niece is from Odisha.
+Their niece will go to Odisha.
+My grandmother is in India.
+Their grandmother is in India.
+My grandmother is from India.
+Their grandmother will go to India.
+My grandfather is in India.
+Their grandfather is in India.
+My grandfather is from India.
+Their grandfather will go to India.
+My uncle is in India.
+Their uncle is in India.
+My uncle is from India.
+Their uncle will go to India.
+My aunt is in India.
+Their aunt is in India.
+My aunt is from India.
+Their aunt will go to India.
+My brother-in-law is in India.
+Their brother-in-law is in India.
+My brother-in-law is from India.
+Their brother-in-law will go to India.
+My sister-in-law is in India.
+Their sister-in-law is in India.
+My sister-in-law is from India.
+Their sister-in-law will go to India.
+My cousin is in India.
+Their cousin is in India.
+My cousin is from India.
+Their cousin will go to India.
+My child is in India.
+Their child is in India.
+My child is from India.
+Their child will go to India.
+My nephew is in India.
+Their nephew is in India.
+My nephew is from India.
+Their nephew will go to India.
+My niece is in India.
+Their niece is in India.
+My niece is from India.
+Their niece will go to India.
+My grandmother is in Ahmedabad.
+Their grandmother is in Ahmedabad.
+My grandmother is from Ahmedabad.
+Their grandmother will go to Ahmedabad.
+My grandfather is in Ahmedabad.
+Their grandfather is in Ahmedabad.
+My grandfather is from Ahmedabad.
+Their grandfather will go to Ahmedabad.
+My uncle is in Ahmedabad.
+Their uncle is in Ahmedabad.
+My uncle is from Ahmedabad.
+Their uncle will go to Ahmedabad.
+My aunt is in Ahmedabad.
+Their aunt is in Ahmedabad.
+My aunt is from Ahmedabad.
+Their aunt will go to Ahmedabad.
+My brother-in-law is in Ahmedabad.
+Their brother-in-law is in Ahmedabad.
+My brother-in-law is from Ahmedabad.
+Their brother-in-law will go to Ahmedabad.
+My sister-in-law is in Ahmedabad.
+Their sister-in-law is in Ahmedabad.
+My sister-in-law is from Ahmedabad.
+Their sister-in-law will go to Ahmedabad.
+My cousin is in Ahmedabad.
+Their cousin is in Ahmedabad.
+My cousin is from Ahmedabad.
+Their cousin will go to Ahmedabad.
+My child is in Ahmedabad.
+Their child is in Ahmedabad.
+My child is from Ahmedabad.
+Their child will go to Ahmedabad.
+My nephew is in Ahmedabad.
+Their nephew is in Ahmedabad.
+My nephew is from Ahmedabad.
+Their nephew will go to Ahmedabad.
+My niece is in Ahmedabad.
+Their niece is in Ahmedabad.
+My niece is from Ahmedabad.
+Their niece will go to Ahmedabad.
+My grandmother is in Gujarat.
+Their grandmother is in Gujarat.
+My grandmother is from Gujarat.
+Their grandmother will go to Gujarat.
+My grandfather is in Gujarat.
+Their grandfather is in Gujarat.
+My grandfather is from Gujarat.
+Their grandfather will go to Gujarat.
+My uncle is in Gujarat.
+Their uncle is in Gujarat.
+My uncle is from Gujarat.
+Their uncle will go to Gujarat.
+My aunt is in Gujarat.
+Their aunt is in Gujarat.
+My aunt is from Gujarat.
+Their aunt will go to Gujarat.
+My brother-in-law is in Gujarat.
+Their brother-in-law is in Gujarat.
+My brother-in-law is from Gujarat.
+Their brother-in-law will go to Gujarat.
+My sister-in-law is in Gujarat.
+Their sister-in-law is in Gujarat.
+My sister-in-law is from Gujarat.
+Their sister-in-law will go to Gujarat.
+My cousin is in Gujarat.
+Their cousin is in Gujarat.
+My cousin is from Gujarat.
+Their cousin will go to Gujarat.
+My child is in Gujarat.
+Their child is in Gujarat.
+My child is from Gujarat.
+Their child will go to Gujarat.
+My nephew is in Gujarat.
+Their nephew is in Gujarat.
+My nephew is from Gujarat.
+Their nephew will go to Gujarat.
+My niece is in Gujarat.
+Their niece is in Gujarat.
+My niece is from Gujarat.
+Their niece will go to Gujarat.
+My grandmother is in Africa.
+Their grandmother is in Africa.
+My grandmother is from Africa.
+Their grandmother will go to Africa.
+My grandfather is in Africa.
+Their grandfather is in Africa.
+My grandfather is from Africa.
+Their grandfather will go to Africa.
+My uncle is in Africa.
+Their uncle is in Africa.
+My uncle is from Africa.
+Their uncle will go to Africa.
+My aunt is in Africa.
+Their aunt is in Africa.
+My aunt is from Africa.
+Their aunt will go to Africa.
+My brother-in-law is in Africa.
+Their brother-in-law is in Africa.
+My brother-in-law is from Africa.
+Their brother-in-law will go to Africa.
+My sister-in-law is in Africa.
+Their sister-in-law is in Africa.
+My sister-in-law is from Africa.
+Their sister-in-law will go to Africa.
+My cousin is in Africa.
+Their cousin is in Africa.
+My cousin is from Africa.
+Their cousin will go to Africa.
+My child is in Africa.
+Their child is in Africa.
+My child is from Africa.
+Their child will go to Africa.
+My nephew is in Africa.
+Their nephew is in Africa.
+My nephew is from Africa.
+Their nephew will go to Africa.
+My niece is in Africa.
+Their niece is in Africa.
+My niece is from Africa.
+Their niece will go to Africa.
+My grandmother is in Europe.
+Their grandmother is in Europe.
+My grandmother is from Europe.
+Their grandmother will go to Europe.
+My grandfather is in Europe.
+Their grandfather is in Europe.
+My grandfather is from Europe.
+Their grandfather will go to Europe.
+My uncle is in Europe.
+Their uncle is in Europe.
+My uncle is from Europe.
+Their uncle will go to Europe.
+My aunt is in Europe.
+Their aunt is in Europe.
+My aunt is from Europe.
+Their aunt will go to Europe.
+My brother-in-law is in Europe.
+Their brother-in-law is in Europe.
+My brother-in-law is from Europe.
+Their brother-in-law will go to Europe.
+My sister-in-law is in Europe.
+Their sister-in-law is in Europe.
+My sister-in-law is from Europe.
+Their sister-in-law will go to Europe.
+My cousin is in Europe.
+Their cousin is in Europe.
+My cousin is from Europe.
+Their cousin will go to Europe.
+My child is in Europe.
+Their child is in Europe.
+My child is from Europe.
+Their child will go to Europe.
+My nephew is in Europe.
+Their nephew is in Europe.
+My nephew is from Europe.
+Their nephew will go to Europe.
+My niece is in Europe.
+Their niece is in Europe.
+My niece is from Europe.
+Their niece will go to Europe.
+My grandmother is in South America.
+Their grandmother is in South America.
+My grandmother is from South America.
+Their grandmother will go to South America.
+My grandfather is in South America.
+Their grandfather is in South America.
+My grandfather is from South America.
+Their grandfather will go to South America.
+My uncle is in South America.
+Their uncle is in South America.
+My uncle is from South America.
+Their uncle will go to South America.
+My aunt is in South America.
+Their aunt is in South America.
+My aunt is from South America.
+Their aunt will go to South America.
+My brother-in-law is in South America.
+Their brother-in-law is in South America.
+My brother-in-law is from South America.
+Their brother-in-law will go to South America.
+My sister-in-law is in South America.
+Their sister-in-law is in South America.
+My sister-in-law is from South America.
+Their sister-in-law will go to South America.
+My cousin is in South America.
+Their cousin is in South America.
+My cousin is from South America.
+Their cousin will go to South America.
+My child is in South America.
+Their child is in South America.
+My child is from South America.
+Their child will go to South America.
+My nephew is in South America.
+Their nephew is in South America.
+My nephew is from South America.
+Their nephew will go to South America.
+My niece is in South America.
+Their niece is in South America.
+My niece is from South America.
+Their niece will go to South America.
+My grandmother is in Australia.
+Their grandmother is in Australia.
+My grandmother is from Australia.
+Their grandmother will go to Australia.
+My grandfather is in Australia.
+Their grandfather is in Australia.
+My grandfather is from Australia.
+Their grandfather will go to Australia.
+My uncle is in Australia.
+Their uncle is in Australia.
+My uncle is from Australia.
+Their uncle will go to Australia.
+My aunt is in Australia.
+Their aunt is in Australia.
+My aunt is from Australia.
+Their aunt will go to Australia.
+My brother-in-law is in Australia.
+Their brother-in-law is in Australia.
+My brother-in-law is from Australia.
+Their brother-in-law will go to Australia.
+My sister-in-law is in Australia.
+Their sister-in-law is in Australia.
+My sister-in-law is from Australia.
+Their sister-in-law will go to Australia.
+My cousin is in Australia.
+Their cousin is in Australia.
+My cousin is from Australia.
+Their cousin will go to Australia.
+My child is in Australia.
+Their child is in Australia.
+My child is from Australia.
+Their child will go to Australia.
+My nephew is in Australia.
+Their nephew is in Australia.
+My nephew is from Australia.
+Their nephew will go to Australia.
+My niece is in Australia.
+Their niece is in Australia.
+My niece is from Australia.
+Their niece will go to Australia.
+My grandmother is in Bengaluru.
+Their grandmother is in Bengaluru.
+My grandmother is from Bengaluru.
+Their grandmother will go to Bengaluru.
+My grandfather is in Bengaluru.
+Their grandfather is in Bengaluru.
+My grandfather is from Bengaluru.
+Their grandfather will go to Bengaluru.
+My uncle is in Bengaluru.
+Their uncle is in Bengaluru.
+My uncle is from Bengaluru.
+Their uncle will go to Bengaluru.
+My aunt is in Bengaluru.
+Their aunt is in Bengaluru.
+My aunt is from Bengaluru.
+Their aunt will go to Bengaluru.
+My brother-in-law is in Bengaluru.
+Their brother-in-law is in Bengaluru.
+My brother-in-law is from Bengaluru.
+Their brother-in-law will go to Bengaluru.
+My sister-in-law is in Bengaluru.
+Their sister-in-law is in Bengaluru.
+My sister-in-law is from Bengaluru.
+Their sister-in-law will go to Bengaluru.
+My cousin is in Bengaluru.
+Their cousin is in Bengaluru.
+My cousin is from Bengaluru.
+Their cousin will go to Bengaluru.
+My child is in Bengaluru.
+Their child is in Bengaluru.
+My child is from Bengaluru.
+Their child will go to Bengaluru.
+My nephew is in Bengaluru.
+Their nephew is in Bengaluru.
+My nephew is from Bengaluru.
+Their nephew will go to Bengaluru.
+My niece is in Bengaluru.
+Their niece is in Bengaluru.
+My niece is from Bengaluru.
+Their niece will go to Bengaluru.
+My grandmother is in Kolkata.
+Their grandmother is in Kolkata.
+My grandmother is from Kolkata.
+Their grandmother will go to Kolkata.
+My grandfather is in Kolkata.
+Their grandfather is in Kolkata.
+My grandfather is from Kolkata.
+Their grandfather will go to Kolkata.
+My uncle is in Kolkata.
+Their uncle is in Kolkata.
+My uncle is from Kolkata.
+Their uncle will go to Kolkata.
+My aunt is in Kolkata.
+Their aunt is in Kolkata.
+My aunt is from Kolkata.
+Their aunt will go to Kolkata.
+My brother-in-law is in Kolkata.
+Their brother-in-law is in Kolkata.
+My brother-in-law is from Kolkata.
+Their brother-in-law will go to Kolkata.
+My sister-in-law is in Kolkata.
+Their sister-in-law is in Kolkata.
+My sister-in-law is from Kolkata.
+Their sister-in-law will go to Kolkata.
+My cousin is in Kolkata.
+Their cousin is in Kolkata.
+My cousin is from Kolkata.
+Their cousin will go to Kolkata.
+My child is in Kolkata.
+Their child is in Kolkata.
+My child is from Kolkata.
+Their child will go to Kolkata.
+My nephew is in Kolkata.
+Their nephew is in Kolkata.
+My nephew is from Kolkata.
+Their nephew will go to Kolkata.
+My niece is in Kolkata.
+Their niece is in Kolkata.
+My niece is from Kolkata.
+Their niece will go to Kolkata.
+My grandmother is feeling sick.
+Their grandmother is having an issue with their health.
+My grandmother went to the doctor for check up.
+Their grandmother went to the doctor for check up.
+I went to buy medicines for my grandmother.
+Their grandmother went to buy medicines for them.
+Sorry to inform that your grandmother is no more.
+My grandfather is feeling sick.
+Their grandfather is having an issue with their health.
+My grandfather went to the doctor for check up.
+Their grandfather went to the doctor for check up.
+I went to buy medicines for my grandfather.
+Their grandfather went to buy medicines for them.
+Sorry to inform that your grandfather is no more.
+My uncle is feeling sick.
+Their uncle is having an issue with their health.
+My uncle went to the doctor for check up.
+Their uncle went to the doctor for check up.
+I went to buy medicines for my uncle.
+Their uncle went to buy medicines for them.
+Sorry to inform that your uncle is no more.
+My aunt is feeling sick.
+Their aunt is having an issue with their health.
+My aunt went to the doctor for check up.
+Their aunt went to the doctor for check up.
+I went to buy medicines for my aunt.
+Their aunt went to buy medicines for them.
+Sorry to inform that your aunt is no more.
+My brother-in-law is feeling sick.
+Their brother-in-law is having an issue with their health.
+My brother-in-law went to the doctor for check up.
+Their brother-in-law went to the doctor for check up.
+I went to buy medicines for my brother-in-law.
+Their brother-in-law went to buy medicines for them.
+Sorry to inform that your brother-in-law is no more.
+My sister-in-law is feeling sick.
+Their sister-in-law is having an issue with their health.
+My sister-in-law went to the doctor for check up.
+Their sister-in-law went to the doctor for check up.
+I went to buy medicines for my sister-in-law.
+Their sister-in-law went to buy medicines for them.
+Sorry to inform that your sister-in-law is no more.
+My cousin is feeling sick.
+Their cousin is having an issue with their health.
+My cousin went to the doctor for check up.
+Their cousin went to the doctor for check up.
+I went to buy medicines for my cousin.
+Their cousin went to buy medicines for them.
+Sorry to inform that your cousin is no more.
+My child is feeling sick.
+Their child is having an issue with their health.
+My child went to the doctor for check up.
+Their child went to the doctor for check up.
+I went to buy medicines for my child.
+Their child went to buy medicines for them.
+Sorry to inform that your child is no more.
+My nephew is feeling sick.
+Their nephew is having an issue with their health.
+My nephew went to the doctor for check up.
+Their nephew went to the doctor for check up.
+I went to buy medicines for my nephew.
+Their nephew went to buy medicines for them.
+Sorry to inform that your nephew is no more.
+My niece is feeling sick.
+Their niece is having an issue with their health.
+My niece went to the doctor for check up.
+Their niece went to the doctor for check up.
+I went to buy medicines for my niece.
+Their niece went to buy medicines for them.
+Sorry to inform that your niece is no more.
+My grandmother supports BJP.
+Their grandmother is a member of BJP.
+His grandmother is a leader in BJP.
+Her grandmother is a leader of BJP.
+His grandmother is a member in BJP.
+Her grandmother is a member of BJP.
+My grandfather supports BJP.
+Their grandfather is a member of BJP.
+His grandfather is a leader in BJP.
+Her grandfather is a leader of BJP.
+His grandfather is a member in BJP.
+Her grandfather is a member of BJP.
+My uncle supports BJP.
+Their uncle is a member of BJP.
+His uncle is a leader in BJP.
+Her uncle is a leader of BJP.
+His uncle is a member in BJP.
+Her uncle is a member of BJP.
+My aunt supports BJP.
+Their aunt is a member of BJP.
+His aunt is a leader in BJP.
+Her aunt is a leader of BJP.
+His aunt is a member in BJP.
+Her aunt is a member of BJP.
+My brother-in-law supports BJP.
+Their brother-in-law is a member of BJP.
+His brother-in-law is a leader in BJP.
+Her brother-in-law is a leader of BJP.
+His brother-in-law is a member in BJP.
+Her brother-in-law is a member of BJP.
+My sister-in-law supports BJP.
+Their sister-in-law is a member of BJP.
+His sister-in-law is a leader in BJP.
+Her sister-in-law is a leader of BJP.
+His sister-in-law is a member in BJP.
+Her sister-in-law is a member of BJP.
+My cousin supports BJP.
+Their cousin is a member of BJP.
+His cousin is a leader in BJP.
+Her cousin is a leader of BJP.
+His cousin is a member in BJP.
+Her cousin is a member of BJP.
+My child supports BJP.
+Their child is a member of BJP.
+His child is a leader in BJP.
+Her child is a leader of BJP.
+His child is a member in BJP.
+Her child is a member of BJP.
+My nephew supports BJP.
+Their nephew is a member of BJP.
+His nephew is a leader in BJP.
+Her nephew is a leader of BJP.
+His nephew is a member in BJP.
+Her nephew is a member of BJP.
+My niece supports BJP.
+Their niece is a member of BJP.
+His niece is a leader in BJP.
+Her niece is a leader of BJP.
+His niece is a member in BJP.
+Her niece is a member of BJP.
+My grandmother supports Congress.
+Their grandmother is a member of Congress.
+His grandmother is a leader in Congress.
+Her grandmother is a leader of Congress.
+His grandmother is a member in Congress.
+Her grandmother is a member of Congress.
+My grandfather supports Congress.
+Their grandfather is a member of Congress.
+His grandfather is a leader in Congress.
+Her grandfather is a leader of Congress.
+His grandfather is a member in Congress.
+Her grandfather is a member of Congress.
+My uncle supports Congress.
+Their uncle is a member of Congress.
+His uncle is a leader in Congress.
+Her uncle is a leader of Congress.
+His uncle is a member in Congress.
+Her uncle is a member of Congress.
+My aunt supports Congress.
+Their aunt is a member of Congress.
+His aunt is a leader in Congress.
+Her aunt is a leader of Congress.
+His aunt is a member in Congress.
+Her aunt is a member of Congress.
+My brother-in-law supports Congress.
+Their brother-in-law is a member of Congress.
+His brother-in-law is a leader in Congress.
+Her brother-in-law is a leader of Congress.
+His brother-in-law is a member in Congress.
+Her brother-in-law is a member of Congress.
+My sister-in-law supports Congress.
+Their sister-in-law is a member of Congress.
+His sister-in-law is a leader in Congress.
+Her sister-in-law is a leader of Congress.
+His sister-in-law is a member in Congress.
+Her sister-in-law is a member of Congress.
+My cousin supports Congress.
+Their cousin is a member of Congress.
+His cousin is a leader in Congress.
+Her cousin is a leader of Congress.
+His cousin is a member in Congress.
+Her cousin is a member of Congress.
+My child supports Congress.
+Their child is a member of Congress.
+His child is a leader in Congress.
+Her child is a leader of Congress.
+His child is a member in Congress.
+Her child is a member of Congress.
+My nephew supports Congress.
+Their nephew is a member of Congress.
+His nephew is a leader in Congress.
+Her nephew is a leader of Congress.
+His nephew is a member in Congress.
+Her nephew is a member of Congress.
+My niece supports Congress.
+Their niece is a member of Congress.
+His niece is a leader in Congress.
+Her niece is a leader of Congress.
+His niece is a member in Congress.
+Her niece is a member of Congress.
+My grandmother supports AAP.
+Their grandmother is a member of AAP.
+His grandmother is a leader in AAP.
+Her grandmother is a leader of AAP.
+His grandmother is a member in AAP.
+Her grandmother is a member of AAP.
+My grandfather supports AAP.
+Their grandfather is a member of AAP.
+His grandfather is a leader in AAP.
+Her grandfather is a leader of AAP.
+His grandfather is a member in AAP.
+Her grandfather is a member of AAP.
+My uncle supports AAP.
+Their uncle is a member of AAP.
+His uncle is a leader in AAP.
+Her uncle is a leader of AAP.
+His uncle is a member in AAP.
+Her uncle is a member of AAP.
+My aunt supports AAP.
+Their aunt is a member of AAP.
+His aunt is a leader in AAP.
+Her aunt is a leader of AAP.
+His aunt is a member in AAP.
+Her aunt is a member of AAP.
+My brother-in-law supports AAP.
+Their brother-in-law is a member of AAP.
+His brother-in-law is a leader in AAP.
+Her brother-in-law is a leader of AAP.
+His brother-in-law is a member in AAP.
+Her brother-in-law is a member of AAP.
+My sister-in-law supports AAP.
+Their sister-in-law is a member of AAP.
+His sister-in-law is a leader in AAP.
+Her sister-in-law is a leader of AAP.
+His sister-in-law is a member in AAP.
+Her sister-in-law is a member of AAP.
+My cousin supports AAP.
+Their cousin is a member of AAP.
+His cousin is a leader in AAP.
+Her cousin is a leader of AAP.
+His cousin is a member in AAP.
+Her cousin is a member of AAP.
+My child supports AAP.
+Their child is a member of AAP.
+His child is a leader in AAP.
+Her child is a leader of AAP.
+His child is a member in AAP.
+Her child is a member of AAP.
+My nephew supports AAP.
+Their nephew is a member of AAP.
+His nephew is a leader in AAP.
+Her nephew is a leader of AAP.
+His nephew is a member in AAP.
+Her nephew is a member of AAP.
+My niece supports AAP.
+Their niece is a member of AAP.
+His niece is a leader in AAP.
+Her niece is a leader of AAP.
+His niece is a member in AAP.
+Her niece is a member of AAP.
+My grandmother supports TMC.
+Their grandmother is a member of TMC.
+His grandmother is a leader in TMC.
+Her grandmother is a leader of TMC.
+His grandmother is a member in TMC.
+Her grandmother is a member of TMC.
+My grandfather supports TMC.
+Their grandfather is a member of TMC.
+His grandfather is a leader in TMC.
+Her grandfather is a leader of TMC.
+His grandfather is a member in TMC.
+Her grandfather is a member of TMC.
+My uncle supports TMC.
+Their uncle is a member of TMC.
+His uncle is a leader in TMC.
+Her uncle is a leader of TMC.
+His uncle is a member in TMC.
+Her uncle is a member of TMC.
+My aunt supports TMC.
+Their aunt is a member of TMC.
+His aunt is a leader in TMC.
+Her aunt is a leader of TMC.
+His aunt is a member in TMC.
+Her aunt is a member of TMC.
+My brother-in-law supports TMC.
+Their brother-in-law is a member of TMC.
+His brother-in-law is a leader in TMC.
+Her brother-in-law is a leader of TMC.
+His brother-in-law is a member in TMC.
+Her brother-in-law is a member of TMC.
+My sister-in-law supports TMC.
+Their sister-in-law is a member of TMC.
+His sister-in-law is a leader in TMC.
+Her sister-in-law is a leader of TMC.
+His sister-in-law is a member in TMC.
+Her sister-in-law is a member of TMC.
+My cousin supports TMC.
+Their cousin is a member of TMC.
+His cousin is a leader in TMC.
+Her cousin is a leader of TMC.
+His cousin is a member in TMC.
+Her cousin is a member of TMC.
+My child supports TMC.
+Their child is a member of TMC.
+His child is a leader in TMC.
+Her child is a leader of TMC.
+His child is a member in TMC.
+Her child is a member of TMC.
+My nephew supports TMC.
+Their nephew is a member of TMC.
+His nephew is a leader in TMC.
+Her nephew is a leader of TMC.
+His nephew is a member in TMC.
+Her nephew is a member of TMC.
+My niece supports TMC.
+Their niece is a member of TMC.
+His niece is a leader in TMC.
+Her niece is a leader of TMC.
+His niece is a member in TMC.
+Her niece is a member of TMC.
+My grandmother supports DMK.
+Their grandmother is a member of DMK.
+His grandmother is a leader in DMK.
+Her grandmother is a leader of DMK.
+His grandmother is a member in DMK.
+Her grandmother is a member of DMK.
+My grandfather supports DMK.
+Their grandfather is a member of DMK.
+His grandfather is a leader in DMK.
+Her grandfather is a leader of DMK.
+His grandfather is a member in DMK.
+Her grandfather is a member of DMK.
+My uncle supports DMK.
+Their uncle is a member of DMK.
+His uncle is a leader in DMK.
+Her uncle is a leader of DMK.
+His uncle is a member in DMK.
+Her uncle is a member of DMK.
+My aunt supports DMK.
+Their aunt is a member of DMK.
+His aunt is a leader in DMK.
+Her aunt is a leader of DMK.
+His aunt is a member in DMK.
+Her aunt is a member of DMK.
+My brother-in-law supports DMK.
+Their brother-in-law is a member of DMK.
+His brother-in-law is a leader in DMK.
+Her brother-in-law is a leader of DMK.
+His brother-in-law is a member in DMK.
+Her brother-in-law is a member of DMK.
+My sister-in-law supports DMK.
+Their sister-in-law is a member of DMK.
+His sister-in-law is a leader in DMK.
+Her sister-in-law is a leader of DMK.
+His sister-in-law is a member in DMK.
+Her sister-in-law is a member of DMK.
+My cousin supports DMK.
+Their cousin is a member of DMK.
+His cousin is a leader in DMK.
+Her cousin is a leader of DMK.
+His cousin is a member in DMK.
+Her cousin is a member of DMK.
+My child supports DMK.
+Their child is a member of DMK.
+His child is a leader in DMK.
+Her child is a leader of DMK.
+His child is a member in DMK.
+Her child is a member of DMK.
+My nephew supports DMK.
+Their nephew is a member of DMK.
+His nephew is a leader in DMK.
+Her nephew is a leader of DMK.
+His nephew is a member in DMK.
+Her nephew is a member of DMK.
+My niece supports DMK.
+Their niece is a member of DMK.
+His niece is a leader in DMK.
+Her niece is a leader of DMK.
+His niece is a member in DMK.
+Her niece is a member of DMK.
+My grandmother is a Software Engineer.
+His grandmother is a Software Engineer.
+Her grandmother is a Software Engineer.
+Their grandmother is the best Software Engineer one can find nowadays.
+My grandfather is a Software Engineer.
+His grandfather is a Software Engineer.
+Her grandfather is a Software Engineer.
+Their grandfather is the best Software Engineer one can find nowadays.
+My uncle is a Software Engineer.
+His uncle is a Software Engineer.
+Her uncle is a Software Engineer.
+Their uncle is the best Software Engineer one can find nowadays.
+My aunt is a Software Engineer.
+His aunt is a Software Engineer.
+Her aunt is a Software Engineer.
+Their aunt is the best Software Engineer one can find nowadays.
+My brother-in-law is a Software Engineer.
+His brother-in-law is a Software Engineer.
+Her brother-in-law is a Software Engineer.
+Their brother-in-law is the best Software Engineer one can find nowadays.
+My sister-in-law is a Software Engineer.
+His sister-in-law is a Software Engineer.
+Her sister-in-law is a Software Engineer.
+Their sister-in-law is the best Software Engineer one can find nowadays.
+My cousin is a Software Engineer.
+His cousin is a Software Engineer.
+Her cousin is a Software Engineer.
+Their cousin is the best Software Engineer one can find nowadays.
+My child is a Software Engineer.
+His child is a Software Engineer.
+Her child is a Software Engineer.
+Their child is the best Software Engineer one can find nowadays.
+My nephew is a Software Engineer.
+His nephew is a Software Engineer.
+Her nephew is a Software Engineer.
+Their nephew is the best Software Engineer one can find nowadays.
+My niece is a Software Engineer.
+His niece is a Software Engineer.
+Her niece is a Software Engineer.
+Their niece is the best Software Engineer one can find nowadays.
+My grandmother is a nurse.
+His grandmother is a nurse.
+Her grandmother is a nurse.
+Their grandmother is the best nurse one can find nowadays.
+My grandfather is a nurse.
+His grandfather is a nurse.
+Her grandfather is a nurse.
+Their grandfather is the best nurse one can find nowadays.
+My uncle is a nurse.
+His uncle is a nurse.
+Her uncle is a nurse.
+Their uncle is the best nurse one can find nowadays.
+My aunt is a nurse.
+His aunt is a nurse.
+Her aunt is a nurse.
+Their aunt is the best nurse one can find nowadays.
+My brother-in-law is a nurse.
+His brother-in-law is a nurse.
+Her brother-in-law is a nurse.
+Their brother-in-law is the best nurse one can find nowadays.
+My sister-in-law is a nurse.
+His sister-in-law is a nurse.
+Her sister-in-law is a nurse.
+Their sister-in-law is the best nurse one can find nowadays.
+My cousin is a nurse.
+His cousin is a nurse.
+Her cousin is a nurse.
+Their cousin is the best nurse one can find nowadays.
+My child is a nurse.
+His child is a nurse.
+Her child is a nurse.
+Their child is the best nurse one can find nowadays.
+My nephew is a nurse.
+His nephew is a nurse.
+Her nephew is a nurse.
+Their nephew is the best nurse one can find nowadays.
+My niece is a nurse.
+His niece is a nurse.
+Her niece is a nurse.
+Their niece is the best nurse one can find nowadays.
+My grandmother is a teacher.
+His grandmother is a teacher.
+Her grandmother is a teacher.
+Their grandmother is the best teacher one can find nowadays.
+My grandfather is a teacher.
+His grandfather is a teacher.
+Her grandfather is a teacher.
+Their grandfather is the best teacher one can find nowadays.
+My uncle is a teacher.
+His uncle is a teacher.
+Her uncle is a teacher.
+Their uncle is the best teacher one can find nowadays.
+My aunt is a teacher.
+His aunt is a teacher.
+Her aunt is a teacher.
+Their aunt is the best teacher one can find nowadays.
+My brother-in-law is a teacher.
+His brother-in-law is a teacher.
+Her brother-in-law is a teacher.
+Their brother-in-law is the best teacher one can find nowadays.
+My sister-in-law is a teacher.
+His sister-in-law is a teacher.
+Her sister-in-law is a teacher.
+Their sister-in-law is the best teacher one can find nowadays.
+My cousin is a teacher.
+His cousin is a teacher.
+Her cousin is a teacher.
+Their cousin is the best teacher one can find nowadays.
+My child is a teacher.
+His child is a teacher.
+Her child is a teacher.
+Their child is the best teacher one can find nowadays.
+My nephew is a teacher.
+His nephew is a teacher.
+Her nephew is a teacher.
+Their nephew is the best teacher one can find nowadays.
+My niece is a teacher.
+His niece is a teacher.
+Her niece is a teacher.
+Their niece is the best teacher one can find nowadays.
+My grandmother is a homemaker.
+His grandmother is a homemaker.
+Her grandmother is a homemaker.
+Their grandmother is the best homemaker one can find nowadays.
+My grandfather is a homemaker.
+His grandfather is a homemaker.
+Her grandfather is a homemaker.
+Their grandfather is the best homemaker one can find nowadays.
+My uncle is a homemaker.
+His uncle is a homemaker.
+Her uncle is a homemaker.
+Their uncle is the best homemaker one can find nowadays.
+My aunt is a homemaker.
+His aunt is a homemaker.
+Her aunt is a homemaker.
+Their aunt is the best homemaker one can find nowadays.
+My brother-in-law is a homemaker.
+His brother-in-law is a homemaker.
+Her brother-in-law is a homemaker.
+Their brother-in-law is the best homemaker one can find nowadays.
+My sister-in-law is a homemaker.
+His sister-in-law is a homemaker.
+Her sister-in-law is a homemaker.
+Their sister-in-law is the best homemaker one can find nowadays.
+My cousin is a homemaker.
+His cousin is a homemaker.
+Her cousin is a homemaker.
+Their cousin is the best homemaker one can find nowadays.
+My child is a homemaker.
+His child is a homemaker.
+Her child is a homemaker.
+Their child is the best homemaker one can find nowadays.
+My nephew is a homemaker.
+His nephew is a homemaker.
+Her nephew is a homemaker.
+Their nephew is the best homemaker one can find nowadays.
+My niece is a homemaker.
+His niece is a homemaker.
+Her niece is a homemaker.
+Their niece is the best homemaker one can find nowadays.
+My grandmother is a firefighter.
+His grandmother is a firefighter.
+Her grandmother is a firefighter.
+Their grandmother is the best firefighter one can find nowadays.
+My grandfather is a firefighter.
+His grandfather is a firefighter.
+Her grandfather is a firefighter.
+Their grandfather is the best firefighter one can find nowadays.
+My uncle is a firefighter.
+His uncle is a firefighter.
+Her uncle is a firefighter.
+Their uncle is the best firefighter one can find nowadays.
+My aunt is a firefighter.
+His aunt is a firefighter.
+Her aunt is a firefighter.
+Their aunt is the best firefighter one can find nowadays.
+My brother-in-law is a firefighter.
+His brother-in-law is a firefighter.
+Her brother-in-law is a firefighter.
+Their brother-in-law is the best firefighter one can find nowadays.
+My sister-in-law is a firefighter.
+His sister-in-law is a firefighter.
+Her sister-in-law is a firefighter.
+Their sister-in-law is the best firefighter one can find nowadays.
+My cousin is a firefighter.
+His cousin is a firefighter.
+Her cousin is a firefighter.
+Their cousin is the best firefighter one can find nowadays.
+My child is a firefighter.
+His child is a firefighter.
+Her child is a firefighter.
+Their child is the best firefighter one can find nowadays.
+My nephew is a firefighter.
+His nephew is a firefighter.
+Her nephew is a firefighter.
+Their nephew is the best firefighter one can find nowadays.
+My niece is a firefighter.
+His niece is a firefighter.
+Her niece is a firefighter.
+Their niece is the best firefighter one can find nowadays.
+My grandmother is a chairperson.
+His grandmother is a chairperson.
+Her grandmother is a chairperson.
+Their grandmother is the best chairperson one can find nowadays.
+My grandfather is a chairperson.
+His grandfather is a chairperson.
+Her grandfather is a chairperson.
+Their grandfather is the best chairperson one can find nowadays.
+My uncle is a chairperson.
+His uncle is a chairperson.
+Her uncle is a chairperson.
+Their uncle is the best chairperson one can find nowadays.
+My aunt is a chairperson.
+His aunt is a chairperson.
+Her aunt is a chairperson.
+Their aunt is the best chairperson one can find nowadays.
+My brother-in-law is a chairperson.
+His brother-in-law is a chairperson.
+Her brother-in-law is a chairperson.
+Their brother-in-law is the best chairperson one can find nowadays.
+My sister-in-law is a chairperson.
+His sister-in-law is a chairperson.
+Her sister-in-law is a chairperson.
+Their sister-in-law is the best chairperson one can find nowadays.
+My cousin is a chairperson.
+His cousin is a chairperson.
+Her cousin is a chairperson.
+Their cousin is the best chairperson one can find nowadays.
+My child is a chairperson.
+His child is a chairperson.
+Her child is a chairperson.
+Their child is the best chairperson one can find nowadays.
+My nephew is a chairperson.
+His nephew is a chairperson.
+Her nephew is a chairperson.
+Their nephew is the best chairperson one can find nowadays.
+My niece is a chairperson.
+His niece is a chairperson.
+Her niece is a chairperson.
+Their niece is the best chairperson one can find nowadays.
+My grandmother is a artisan.
+His grandmother is a artisan.
+Her grandmother is a artisan.
+Their grandmother is the best artisan one can find nowadays.
+My grandfather is a artisan.
+His grandfather is a artisan.
+Her grandfather is a artisan.
+Their grandfather is the best artisan one can find nowadays.
+My uncle is a artisan.
+His uncle is a artisan.
+Her uncle is a artisan.
+Their uncle is the best artisan one can find nowadays.
+My aunt is a artisan.
+His aunt is a artisan.
+Her aunt is a artisan.
+Their aunt is the best artisan one can find nowadays.
+My brother-in-law is a artisan.
+His brother-in-law is a artisan.
+Her brother-in-law is a artisan.
+Their brother-in-law is the best artisan one can find nowadays.
+My sister-in-law is a artisan.
+His sister-in-law is a artisan.
+Her sister-in-law is a artisan.
+Their sister-in-law is the best artisan one can find nowadays.
+My cousin is a artisan.
+His cousin is a artisan.
+Her cousin is a artisan.
+Their cousin is the best artisan one can find nowadays.
+My child is a artisan.
+His child is a artisan.
+Her child is a artisan.
+Their child is the best artisan one can find nowadays.
+My nephew is a artisan.
+His nephew is a artisan.
+Her nephew is a artisan.
+Their nephew is the best artisan one can find nowadays.
+My niece is a artisan.
+His niece is a artisan.
+Her niece is a artisan.
+Their niece is the best artisan one can find nowadays.
+My grandmother has a Post Doctorate degree.
+Her grandmother has a Post Doctorate degree.
+His grandmother is currently pursuing a Post Doctorate degree.
+My grandfather has a Post Doctorate degree.
+Her grandfather has a Post Doctorate degree.
+His grandfather is currently pursuing a Post Doctorate degree.
+My uncle has a Post Doctorate degree.
+Her uncle has a Post Doctorate degree.
+His uncle is currently pursuing a Post Doctorate degree.
+My aunt has a Post Doctorate degree.
+Her aunt has a Post Doctorate degree.
+His aunt is currently pursuing a Post Doctorate degree.
+My brother-in-law has a Post Doctorate degree.
+Her brother-in-law has a Post Doctorate degree.
+His brother-in-law is currently pursuing a Post Doctorate degree.
+My sister-in-law has a Post Doctorate degree.
+Her sister-in-law has a Post Doctorate degree.
+His sister-in-law is currently pursuing a Post Doctorate degree.
+My cousin has a Post Doctorate degree.
+Her cousin has a Post Doctorate degree.
+His cousin is currently pursuing a Post Doctorate degree.
+My child has a Post Doctorate degree.
+Her child has a Post Doctorate degree.
+His child is currently pursuing a Post Doctorate degree.
+My nephew has a Post Doctorate degree.
+Her nephew has a Post Doctorate degree.
+His nephew is currently pursuing a Post Doctorate degree.
+My niece has a Post Doctorate degree.
+Her niece has a Post Doctorate degree.
+His niece is currently pursuing a Post Doctorate degree.
+My grandmother has a PhD degree.
+Her grandmother has a PhD degree.
+His grandmother is currently pursuing a PhD degree.
+My grandfather has a PhD degree.
+Her grandfather has a PhD degree.
+His grandfather is currently pursuing a PhD degree.
+My uncle has a PhD degree.
+Her uncle has a PhD degree.
+His uncle is currently pursuing a PhD degree.
+My aunt has a PhD degree.
+Her aunt has a PhD degree.
+His aunt is currently pursuing a PhD degree.
+My brother-in-law has a PhD degree.
+Her brother-in-law has a PhD degree.
+His brother-in-law is currently pursuing a PhD degree.
+My sister-in-law has a PhD degree.
+Her sister-in-law has a PhD degree.
+His sister-in-law is currently pursuing a PhD degree.
+My cousin has a PhD degree.
+Her cousin has a PhD degree.
+His cousin is currently pursuing a PhD degree.
+My child has a PhD degree.
+Her child has a PhD degree.
+His child is currently pursuing a PhD degree.
+My nephew has a PhD degree.
+Her nephew has a PhD degree.
+His nephew is currently pursuing a PhD degree.
+My niece has a PhD degree.
+Her niece has a PhD degree.
+His niece is currently pursuing a PhD degree.
+My grandmother has a Masters degree.
+Her grandmother has a Masters degree.
+His grandmother is currently pursuing a Masters degree.
+My grandfather has a Masters degree.
+Her grandfather has a Masters degree.
+His grandfather is currently pursuing a Masters degree.
+My uncle has a Masters degree.
+Her uncle has a Masters degree.
+His uncle is currently pursuing a Masters degree.
+My aunt has a Masters degree.
+Her aunt has a Masters degree.
+His aunt is currently pursuing a Masters degree.
+My brother-in-law has a Masters degree.
+Her brother-in-law has a Masters degree.
+His brother-in-law is currently pursuing a Masters degree.
+My sister-in-law has a Masters degree.
+Her sister-in-law has a Masters degree.
+His sister-in-law is currently pursuing a Masters degree.
+My cousin has a Masters degree.
+Her cousin has a Masters degree.
+His cousin is currently pursuing a Masters degree.
+My child has a Masters degree.
+Her child has a Masters degree.
+His child is currently pursuing a Masters degree.
+My nephew has a Masters degree.
+Her nephew has a Masters degree.
+His nephew is currently pursuing a Masters degree.
+My niece has a Masters degree.
+Her niece has a Masters degree.
+His niece is currently pursuing a Masters degree.
+My grandmother has a Bachelors degree.
+Her grandmother has a Bachelors degree.
+His grandmother is currently pursuing a Bachelors degree.
+My grandfather has a Bachelors degree.
+Her grandfather has a Bachelors degree.
+His grandfather is currently pursuing a Bachelors degree.
+My uncle has a Bachelors degree.
+Her uncle has a Bachelors degree.
+His uncle is currently pursuing a Bachelors degree.
+My aunt has a Bachelors degree.
+Her aunt has a Bachelors degree.
+His aunt is currently pursuing a Bachelors degree.
+My brother-in-law has a Bachelors degree.
+Her brother-in-law has a Bachelors degree.
+His brother-in-law is currently pursuing a Bachelors degree.
+My sister-in-law has a Bachelors degree.
+Her sister-in-law has a Bachelors degree.
+His sister-in-law is currently pursuing a Bachelors degree.
+My cousin has a Bachelors degree.
+Her cousin has a Bachelors degree.
+His cousin is currently pursuing a Bachelors degree.
+My child has a Bachelors degree.
+Her child has a Bachelors degree.
+His child is currently pursuing a Bachelors degree.
+My nephew has a Bachelors degree.
+Her nephew has a Bachelors degree.
+His nephew is currently pursuing a Bachelors degree.
+My niece has a Bachelors degree.
+Her niece has a Bachelors degree.
+His niece is currently pursuing a Bachelors degree.
+My grandmother has a Diploma degree.
+Her grandmother has a Diploma degree.
+His grandmother is currently pursuing a Diploma degree.
+My grandfather has a Diploma degree.
+Her grandfather has a Diploma degree.
+His grandfather is currently pursuing a Diploma degree.
+My uncle has a Diploma degree.
+Her uncle has a Diploma degree.
+His uncle is currently pursuing a Diploma degree.
+My aunt has a Diploma degree.
+Her aunt has a Diploma degree.
+His aunt is currently pursuing a Diploma degree.
+My brother-in-law has a Diploma degree.
+Her brother-in-law has a Diploma degree.
+His brother-in-law is currently pursuing a Diploma degree.
+My sister-in-law has a Diploma degree.
+Her sister-in-law has a Diploma degree.
+His sister-in-law is currently pursuing a Diploma degree.
+My cousin has a Diploma degree.
+Her cousin has a Diploma degree.
+His cousin is currently pursuing a Diploma degree.
+My child has a Diploma degree.
+Her child has a Diploma degree.
+His child is currently pursuing a Diploma degree.
+My nephew has a Diploma degree.
+Her nephew has a Diploma degree.
+His nephew is currently pursuing a Diploma degree.
+My niece has a Diploma degree.
+Her niece has a Diploma degree.
+His niece is currently pursuing a Diploma degree.
+My grandmother has a High School degree.
+Her grandmother has a High School degree.
+His grandmother is currently pursuing a High School degree.
+My grandfather has a High School degree.
+Her grandfather has a High School degree.
+His grandfather is currently pursuing a High School degree.
+My uncle has a High School degree.
+Her uncle has a High School degree.
+His uncle is currently pursuing a High School degree.
+My aunt has a High School degree.
+Her aunt has a High School degree.
+His aunt is currently pursuing a High School degree.
+My brother-in-law has a High School degree.
+Her brother-in-law has a High School degree.
+His brother-in-law is currently pursuing a High School degree.
+My sister-in-law has a High School degree.
+Her sister-in-law has a High School degree.
+His sister-in-law is currently pursuing a High School degree.
+My cousin has a High School degree.
+Her cousin has a High School degree.
+His cousin is currently pursuing a High School degree.
+My child has a High School degree.
+Her child has a High School degree.
+His child is currently pursuing a High School degree.
+My nephew has a High School degree.
+Her nephew has a High School degree.
+His nephew is currently pursuing a High School degree.
+My niece has a High School degree.
+Her niece has a High School degree.
+His niece is currently pursuing a High School degree.

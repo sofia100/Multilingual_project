@@ -119,6 +119,13 @@ This dataset has been curated to include human-translated sentences utilized in 
 19. `possible_indic_relations.py`: This file contains the ground truth data structure, organized as a dictionary.
 20. `TestSet_Pat_vs_Mat.ipynb`: This notebook contains code for evaluating various models using the test dataset to check the translation of ambiguous English relations in terms of patriarchal versus matriarchal bias.
 
+21. `Test_Data_Gen.ipynb` : This notebook is used to generate test data for evaluation of the models. 
+
+22. `test_sentences_eng.txt` : This file contains English sentences for the test data for evaluation of 4 models. Generated using `Test_Data_Gen.ipynb` by me.
+
+23. TestSet_custom.ipynb : This notebook is used to test data (fetch translations of `test_sentences_eng.txt` from 4 models) for evaluation of the models. 
+
+
 
 
  <!-- Corpus Name: wikimedia
