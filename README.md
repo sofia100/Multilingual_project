@@ -125,6 +125,9 @@ This dataset has been curated to include human-translated sentences utilized in 
 
 23. TestSet_custom.ipynb : This notebook is used to test data (fetch translations of `test_sentences_eng.txt` from 4 models) for evaluation of the models. 
 
+24. `resultant`: has the dataframe for keeping counts and plots
+25. `others_res`: has the dataframe for keeping counts and plots for OTHERS category
+
 
 
 
