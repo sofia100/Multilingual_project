@@ -662,7 +662,7 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "M",
             },
-            "చిన్న  నాన్న": {
+            "చిన్న నాన్న": {
                 "description": "mother's younger sister's husband",
                 "relation": "maternal",
                 "relation_code": "F",
