@@ -320,7 +320,7 @@ possible_relations = {
                 "relation_code": "B",
                 "gender": "M",
             },
-            "பெரிய தாத்தா": {
+            "பெரிய தாத்தா": {
                 "description": "mother's or father's father's elder brother",
                 "relation": "both",
                 "relation_code": "B",
@@ -997,6 +997,12 @@ possible_relations = {
                 "gender": "M",
             },
             "ଭିଣେଇ": {
+                "description": "elder sister's husband",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "M",
+            },
+            "ଭିଣୋଇ": {
                 "description": "elder sister's husband",
                 "relation": "maternal",
                 "relation_code": "F",
@@ -1680,7 +1686,7 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "F",
             },
-            " ತಮ್ಮ": {
+            "ತಮ್ಮ": {
                 "description": "cousin younger brother",
                 "relation": "paternal",
                 "relation_code": "M",
@@ -1784,7 +1790,7 @@ possible_relations = {
                 "relation_code": "M",
                 "gender": "M",
             },
-            " అక్కా": {
+            "అక్కా": {
                 "description": "cousin sister",
                 "relation": "maternal",
                 "relation_code": "F",
@@ -2211,7 +2217,7 @@ possible_relations = {
                 "relation_code": "M",
                 "gender": "F",
             },
-            "ಸೋದರ ಸೊಸೆ": {
+            "ಸೋದರ ಸೊಸೆ": {
                 "description": "sister's daughter",
                 "relation": "maternal",
                 "relation_code": "F",
