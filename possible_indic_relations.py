@@ -1011,7 +1011,7 @@ possible_relations = {
             "ଦେଢ଼ଶୁର": {
                 "description": "husband's elder brother",
                 "relation": "maternal",
-                "relation_code": "F",
+                "relation_code": "M",
                 "gender": "M",
             },
             "ଦିଅର": {
