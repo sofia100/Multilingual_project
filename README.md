@@ -127,6 +127,8 @@ This dataset has been curated to include human-translated sentences utilized in 
 
 24. `resultant`: has the dataframe for keeping counts and plots
 25. `others_res`: has the dataframe for keeping counts and plots for OTHERS category
+26. `logits(1)_custom_test.ipynb`: In this file, logits is calculated for custom_test data (from file 22) and their difference is plotted. 
+27. `span_encodings_code.ipynb`: In this file, we find the span_encodings language-wise. The span-encodings are  the token IDs for each word in ground truth for the ambiguos word in that language.  
 
 
 
