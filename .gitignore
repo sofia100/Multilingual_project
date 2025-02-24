@@ -37,3 +37,5 @@ trainset_filtered/
 
 trainset_filtered/ben_Beng/
 test_translations/
+notebooks/scratch_pad.ipynb
+logits_confusion_matrix.txt
