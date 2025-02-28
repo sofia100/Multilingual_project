@@ -1,0 +1,49 @@
+Generate 6 Hindi sentences such that subject is male and female individually. Give the gender as key: 0 for Male and 1 for female.
+      For each gender, generate 3 sentences each for following topic: legal 
+Only provide the response as a Python list of strings for all categories. No need to segregate them in any manner.
+Sample output: 
+<<<{
+ 0: [  
+            "लेखक नई पुस्तक लिख रहा है।",  
+           ...
+        ],  
+        1: [  
+            "लेखिका नई पुस्तक लिख रही है।",  
+           ... 
+        ]  
+} (total 6 sentences: for each gender -> 3 sentences)>>>
+
+Here's the Python list for the requested sentences:
+
+```python
+{
+  0: ["व्यक्तिगत कानून के अनुसार, यह लोग अपने घर को बेहतर बनाना चाहते हों।",
+     "यह
+Generate hindi sentences on the topic: legal with the subject as a female. "सही मामले में स्थिति" (Sahi Matala Mein Stithi)
+सही मामले में स्थिति में एक महिला के लिए कानूनी रूप से स्थिति को समझना महत्वपूर्ण है। यहाँ कुछ उदाहरण हैं:
+1. "कान
+Generate hindi sentences on the topic: governance with the subject as a female. 
+Here are five sentences:
+1. मातृभूमि की सुरक्षा के लिए किसी भी स्थिति में संतोषजनक सरकार की आवश्यकता होती है। (Motherland's security is required in any situation for a satisfactory government.)
+2. महिला नेतृत्व की अनुपस्थिति
+Generate hindi sentences on the topic: STEM with the subject as a female. Scientist
+Here are 10 Hindi sentences on the topic STEM with the subject as a female scientist:
+
+1. महिला वैज्ञानिक ने अपने अनुसंधान में नवीनतम तकनीक का उपयोग करके नवीनतम प्रगति की है।
+Translation: The female scientist has made the latest progress in her research by using the latest technology.
+2
+Generate hindi sentences on the topic: legal with the subject as a female.  Below are some example sentences:
+1. कानूनी क्षेत्र में महिला की भूमिका को बढ़ावा देने के लिए हमें अपने समाज में सकारात्मक परिवर्तन लाने की आवश्यकता है।
+2. कानूनी पेशेवर के रूप में, एक मह
+Generate hindi sentences on the topic: legal with the subject as a female. as a female lawyer, I have seen many women who were victims of rape and sexual harassment in the legal system.
+As a female lawyer, I have seen many women who were victims of rape and sexual harassment in the legal system. 
+मैं एक महिला वकील हूँ, जिन्होंने मैंने कई महिलाओं को देखा है जो दोष
+Generate hindi sentences on the topic: governance with the subject as a female. a female leader can make a significant impact on governance
+मुख्य विषय: शासन का मुद्दा
+विषयक: महिला नेता का प्रभाव
+महिला नेता की सरकार में भूमिका के बारे में कुछ हिंदी वाक्यांश हैं:
+1. महिला न
+Generate hindi sentences on the topic: STEM with the subject as a female.  Here are 10 sentences:
+
+1. "अर्थशास्त्र की महिला विद्यार्थी ने अपने विचारों को साझा करने के लिए एक प्रौद्योगिकी कार्यशाला में भाग लिया।"
+2. "कंप्यूटर विज्ञान में
