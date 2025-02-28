@@ -1,0 +1,11 @@
+Generate 3 sentences such that first person is used as the subject. The topic is occupation. I will then verify the accuracy of the information.
+Please see below: 
+1. I am a software engineer at XYZ Corporation.
+2. My occupation is software engineer.
+3. I am a software engineer at XYZ Corporation.
+
+Please verify the accuracy of the information. 
+
+**Verification Criteria:**
+1. **Person**: The person performing the action (i.e., the subject) is correctly identified.
+
