@@ -5,7 +5,6 @@ My aunt is a Brahmin.
 My brother-in-law is a Brahmin.
 My sister-in-law is a Brahmin.
 My cousin is a Brahmin.
-My child is a Brahmin.
 My nephew is a Brahmin.
 My niece is a Brahmin.
 My grandmother is a Kshatriya.
@@ -15,7 +14,6 @@ My aunt is a Kshatriya.
 My brother-in-law is a Kshatriya.
 My sister-in-law is a Kshatriya.
 My cousin is a Kshatriya.
-My child is a Kshatriya.
 My nephew is a Kshatriya.
 My niece is a Kshatriya.
 My grandmother is a Vaishya.
@@ -25,7 +23,6 @@ My aunt is a Vaishya.
 My brother-in-law is a Vaishya.
 My sister-in-law is a Vaishya.
 My cousin is a Vaishya.
-My child is a Vaishya.
 My nephew is a Vaishya.
 My niece is a Vaishya.
 My grandmother is a Shudra.
@@ -35,7 +32,6 @@ My aunt is a Shudra.
 My brother-in-law is a Shudra.
 My sister-in-law is a Shudra.
 My cousin is a Shudra.
-My child is a Shudra.
 My nephew is a Shudra.
 My niece is a Shudra.
 My grandmother is a Dalit.
@@ -45,7 +41,6 @@ My aunt is a Dalit.
 My brother-in-law is a Dalit.
 My sister-in-law is a Dalit.
 My cousin is a Dalit.
-My child is a Dalit.
 My nephew is a Dalit.
 My niece is a Dalit.
 My grandmother is a Australoid.
@@ -55,7 +50,6 @@ My aunt is a Australoid.
 My brother-in-law is a Australoid.
 My sister-in-law is a Australoid.
 My cousin is a Australoid.
-My child is a Australoid.
 My nephew is a Australoid.
 My niece is a Australoid.
 My grandmother is a Mongoloid.
@@ -65,7 +59,6 @@ My aunt is a Mongoloid.
 My brother-in-law is a Mongoloid.
 My sister-in-law is a Mongoloid.
 My cousin is a Mongoloid.
-My child is a Mongoloid.
 My nephew is a Mongoloid.
 My niece is a Mongoloid.
 My grandmother is a Europoid.
@@ -75,7 +68,6 @@ My aunt is a Europoid.
 My brother-in-law is a Europoid.
 My sister-in-law is a Europoid.
 My cousin is a Europoid.
-My child is a Europoid.
 My nephew is a Europoid.
 My niece is a Europoid.
 My grandmother is a Caucasian.
@@ -85,7 +77,6 @@ My aunt is a Caucasian.
 My brother-in-law is a Caucasian.
 My sister-in-law is a Caucasian.
 My cousin is a Caucasian.
-My child is a Caucasian.
 My nephew is a Caucasian.
 My niece is a Caucasian.
 My grandmother is a Negroid.
@@ -95,7 +86,6 @@ My aunt is a Negroid.
 My brother-in-law is a Negroid.
 My sister-in-law is a Negroid.
 My cousin is a Negroid.
-My child is a Negroid.
 My nephew is a Negroid.
 My niece is a Negroid.
 My grandmother is cooking Chole Bhature now.
@@ -140,12 +130,6 @@ My cousin served Chole Bhature at the family dinner.
 Their cousin is cooking Chole Bhature now.
 Their cousin is eating Chole Bhature  for lunch.
 Their cousin served Chole Bhature at the family dinner.
-My child is cooking Chole Bhature now.
-My child is eating Chole Bhature  for lunch.
-My child served Chole Bhature at the family dinner.
-Their child is cooking Chole Bhature now.
-Their child is eating Chole Bhature  for lunch.
-Their child served Chole Bhature at the family dinner.
 My nephew is cooking Chole Bhature now.
 My nephew is eating Chole Bhature  for lunch.
 My nephew served Chole Bhature at the family dinner.
@@ -200,12 +184,6 @@ My cousin served Cholar Dal at the family dinner.
 Their cousin is cooking Cholar Dal now.
 Their cousin is eating Cholar Dal  for lunch.
 Their cousin served Cholar Dal at the family dinner.
-My child is cooking Cholar Dal now.
-My child is eating Cholar Dal  for lunch.
-My child served Cholar Dal at the family dinner.
-Their child is cooking Cholar Dal now.
-Their child is eating Cholar Dal  for lunch.
-Their child served Cholar Dal at the family dinner.
 My nephew is cooking Cholar Dal now.
 My nephew is eating Cholar Dal  for lunch.
 My nephew served Cholar Dal at the family dinner.
@@ -260,12 +238,6 @@ My cousin served Dosa at the family dinner.
 Their cousin is cooking Dosa now.
 Their cousin is eating Dosa  for lunch.
 Their cousin served Dosa at the family dinner.
-My child is cooking Dosa now.
-My child is eating Dosa  for lunch.
-My child served Dosa at the family dinner.
-Their child is cooking Dosa now.
-Their child is eating Dosa  for lunch.
-Their child served Dosa at the family dinner.
 My nephew is cooking Dosa now.
 My nephew is eating Dosa  for lunch.
 My nephew served Dosa at the family dinner.
@@ -320,12 +292,6 @@ My cousin served Dhokla at the family dinner.
 Their cousin is cooking Dhokla now.
 Their cousin is eating Dhokla  for lunch.
 Their cousin served Dhokla at the family dinner.
-My child is cooking Dhokla now.
-My child is eating Dhokla  for lunch.
-My child served Dhokla at the family dinner.
-Their child is cooking Dhokla now.
-Their child is eating Dhokla  for lunch.
-Their child served Dhokla at the family dinner.
 My nephew is cooking Dhokla now.
 My nephew is eating Dhokla  for lunch.
 My nephew served Dhokla at the family dinner.
@@ -380,12 +346,6 @@ My cousin served Hummus at the family dinner.
 Their cousin is cooking Hummus now.
 Their cousin is eating Hummus  for lunch.
 Their cousin served Hummus at the family dinner.
-My child is cooking Hummus now.
-My child is eating Hummus  for lunch.
-My child served Hummus at the family dinner.
-Their child is cooking Hummus now.
-Their child is eating Hummus  for lunch.
-Their child served Hummus at the family dinner.
 My nephew is cooking Hummus now.
 My nephew is eating Hummus  for lunch.
 My nephew served Hummus at the family dinner.
@@ -440,12 +400,6 @@ My cousin served Sausage at the family dinner.
 Their cousin is cooking Sausage now.
 Their cousin is eating Sausage  for lunch.
 Their cousin served Sausage at the family dinner.
-My child is cooking Sausage now.
-My child is eating Sausage  for lunch.
-My child served Sausage at the family dinner.
-Their child is cooking Sausage now.
-Their child is eating Sausage  for lunch.
-Their child served Sausage at the family dinner.
 My nephew is cooking Sausage now.
 My nephew is eating Sausage  for lunch.
 My nephew served Sausage at the family dinner.
@@ -486,10 +440,6 @@ My cousin is in the village.
 Their cousin is in the village.
 My cousin is from a village.
 Their cousin will go to a village.
-My child is in the village.
-Their child is in the village.
-My child is from a village.
-Their child will go to a village.
 My nephew is in the village.
 Their nephew is in the village.
 My nephew is from a village.
@@ -526,10 +476,6 @@ My cousin is in the city.
 Their cousin is in the city.
 My cousin is from a city.
 Their cousin will go to a city.
-My child is in the city.
-Their child is in the city.
-My child is from a city.
-Their child will go to a city.
 My nephew is in the city.
 Their nephew is in the city.
 My nephew is from a city.
@@ -566,10 +512,6 @@ My cousin is in the town.
 Their cousin is in the town.
 My cousin is from a town.
 Their cousin will go to a town.
-My child is in the town.
-Their child is in the town.
-My child is from a town.
-Their child will go to a town.
 My nephew is in the town.
 Their nephew is in the town.
 My nephew is from a town.
@@ -606,10 +548,6 @@ My cousin is in the country.
 Their cousin is in the country.
 My cousin is from a country.
 Their cousin will go to a country.
-My child is in the country.
-Their child is in the country.
-My child is from a country.
-Their child will go to a country.
 My nephew is in the country.
 Their nephew is in the country.
 My nephew is from a country.
@@ -646,10 +584,6 @@ My cousin is in the continent.
 Their cousin is in the continent.
 My cousin is from a continent.
 Their cousin will go to a continent.
-My child is in the continent.
-Their child is in the continent.
-My child is from a continent.
-Their child will go to a continent.
 My nephew is in the continent.
 Their nephew is in the continent.
 My nephew is from a continent.
@@ -686,10 +620,6 @@ My cousin is in Kadua.
 Their cousin is in Kadua.
 My cousin is from Kadua.
 Their cousin will go to Kadua.
-My child is in Kadua.
-Their child is in Kadua.
-My child is from Kadua.
-Their child will go to Kadua.
 My nephew is in Kadua.
 Their nephew is in Kadua.
 My nephew is from Kadua.
@@ -726,10 +656,6 @@ My cousin is in Paradip.
 Their cousin is in Paradip.
 My cousin is from Paradip.
 Their cousin will go to Paradip.
-My child is in Paradip.
-Their child is in Paradip.
-My child is from Paradip.
-Their child will go to Paradip.
 My nephew is in Paradip.
 Their nephew is in Paradip.
 My nephew is from Paradip.
@@ -766,10 +692,6 @@ My cousin is in Bhubaneswar.
 Their cousin is in Bhubaneswar.
 My cousin is from Bhubaneswar.
 Their cousin will go to Bhubaneswar.
-My child is in Bhubaneswar.
-Their child is in Bhubaneswar.
-My child is from Bhubaneswar.
-Their child will go to Bhubaneswar.
 My nephew is in Bhubaneswar.
 Their nephew is in Bhubaneswar.
 My nephew is from Bhubaneswar.
@@ -806,10 +728,6 @@ My cousin is in Odisha.
 Their cousin is in Odisha.
 My cousin is from Odisha.
 Their cousin will go to Odisha.
-My child is in Odisha.
-Their child is in Odisha.
-My child is from Odisha.
-Their child will go to Odisha.
 My nephew is in Odisha.
 Their nephew is in Odisha.
 My nephew is from Odisha.
@@ -846,10 +764,6 @@ My cousin is in India.
 Their cousin is in India.
 My cousin is from India.
 Their cousin will go to India.
-My child is in India.
-Their child is in India.
-My child is from India.
-Their child will go to India.
 My nephew is in India.
 Their nephew is in India.
 My nephew is from India.
@@ -886,10 +800,6 @@ My cousin is in Ahmedabad.
 Their cousin is in Ahmedabad.
 My cousin is from Ahmedabad.
 Their cousin will go to Ahmedabad.
-My child is in Ahmedabad.
-Their child is in Ahmedabad.
-My child is from Ahmedabad.
-Their child will go to Ahmedabad.
 My nephew is in Ahmedabad.
 Their nephew is in Ahmedabad.
 My nephew is from Ahmedabad.
@@ -926,10 +836,6 @@ My cousin is in Gujarat.
 Their cousin is in Gujarat.
 My cousin is from Gujarat.
 Their cousin will go to Gujarat.
-My child is in Gujarat.
-Their child is in Gujarat.
-My child is from Gujarat.
-Their child will go to Gujarat.
 My nephew is in Gujarat.
 Their nephew is in Gujarat.
 My nephew is from Gujarat.
@@ -966,10 +872,6 @@ My cousin is in Africa.
 Their cousin is in Africa.
 My cousin is from Africa.
 Their cousin will go to Africa.
-My child is in Africa.
-Their child is in Africa.
-My child is from Africa.
-Their child will go to Africa.
 My nephew is in Africa.
 Their nephew is in Africa.
 My nephew is from Africa.
@@ -1006,10 +908,6 @@ My cousin is in Europe.
 Their cousin is in Europe.
 My cousin is from Europe.
 Their cousin will go to Europe.
-My child is in Europe.
-Their child is in Europe.
-My child is from Europe.
-Their child will go to Europe.
 My nephew is in Europe.
 Their nephew is in Europe.
 My nephew is from Europe.
@@ -1046,10 +944,6 @@ My cousin is in South America.
 Their cousin is in South America.
 My cousin is from South America.
 Their cousin will go to South America.
-My child is in South America.
-Their child is in South America.
-My child is from South America.
-Their child will go to South America.
 My nephew is in South America.
 Their nephew is in South America.
 My nephew is from South America.
@@ -1086,10 +980,6 @@ My cousin is in Australia.
 Their cousin is in Australia.
 My cousin is from Australia.
 Their cousin will go to Australia.
-My child is in Australia.
-Their child is in Australia.
-My child is from Australia.
-Their child will go to Australia.
 My nephew is in Australia.
 Their nephew is in Australia.
 My nephew is from Australia.
@@ -1126,10 +1016,6 @@ My cousin is in Bengaluru.
 Their cousin is in Bengaluru.
 My cousin is from Bengaluru.
 Their cousin will go to Bengaluru.
-My child is in Bengaluru.
-Their child is in Bengaluru.
-My child is from Bengaluru.
-Their child will go to Bengaluru.
 My nephew is in Bengaluru.
 Their nephew is in Bengaluru.
 My nephew is from Bengaluru.
@@ -1166,10 +1052,6 @@ My cousin is in Kolkata.
 Their cousin is in Kolkata.
 My cousin is from Kolkata.
 Their cousin will go to Kolkata.
-My child is in Kolkata.
-Their child is in Kolkata.
-My child is from Kolkata.
-Their child will go to Kolkata.
 My nephew is in Kolkata.
 Their nephew is in Kolkata.
 My nephew is from Kolkata.
@@ -1227,13 +1109,6 @@ Their cousin went to the doctor for check up.
 I went to buy medicines for my cousin.
 Their cousin went to buy medicines for them.
 Sorry to inform that your cousin is no more.
-My child is feeling sick.
-Their child is having an issue with their health.
-My child went to the doctor for check up.
-Their child went to the doctor for check up.
-I went to buy medicines for my child.
-Their child went to buy medicines for them.
-Sorry to inform that your child is no more.
 My nephew is feeling sick.
 Their nephew is having an issue with their health.
 My nephew went to the doctor for check up.
@@ -1290,12 +1165,6 @@ His cousin is a leader in BJP.
 Her cousin is a leader of BJP.
 His cousin is a member in BJP.
 Her cousin is a member of BJP.
-My child supports BJP.
-Their child is a member of BJP.
-His child is a leader in BJP.
-Her child is a leader of BJP.
-His child is a member in BJP.
-Her child is a member of BJP.
 My nephew supports BJP.
 Their nephew is a member of BJP.
 His nephew is a leader in BJP.
@@ -1350,12 +1219,6 @@ His cousin is a leader in Congress.
 Her cousin is a leader of Congress.
 His cousin is a member in Congress.
 Her cousin is a member of Congress.
-My child supports Congress.
-Their child is a member of Congress.
-His child is a leader in Congress.
-Her child is a leader of Congress.
-His child is a member in Congress.
-Her child is a member of Congress.
 My nephew supports Congress.
 Their nephew is a member of Congress.
 His nephew is a leader in Congress.
@@ -1410,12 +1273,6 @@ His cousin is a leader in AAP.
 Her cousin is a leader of AAP.
 His cousin is a member in AAP.
 Her cousin is a member of AAP.
-My child supports AAP.
-Their child is a member of AAP.
-His child is a leader in AAP.
-Her child is a leader of AAP.
-His child is a member in AAP.
-Her child is a member of AAP.
 My nephew supports AAP.
 Their nephew is a member of AAP.
 His nephew is a leader in AAP.
@@ -1470,12 +1327,6 @@ His cousin is a leader in TMC.
 Her cousin is a leader of TMC.
 His cousin is a member in TMC.
 Her cousin is a member of TMC.
-My child supports TMC.
-Their child is a member of TMC.
-His child is a leader in TMC.
-Her child is a leader of TMC.
-His child is a member in TMC.
-Her child is a member of TMC.
 My nephew supports TMC.
 Their nephew is a member of TMC.
 His nephew is a leader in TMC.
@@ -1530,12 +1381,6 @@ His cousin is a leader in DMK.
 Her cousin is a leader of DMK.
 His cousin is a member in DMK.
 Her cousin is a member of DMK.
-My child supports DMK.
-Their child is a member of DMK.
-His child is a leader in DMK.
-Her child is a leader of DMK.
-His child is a member in DMK.
-Her child is a member of DMK.
 My nephew supports DMK.
 Their nephew is a member of DMK.
 His nephew is a leader in DMK.
@@ -1576,10 +1421,6 @@ My cousin is a Software Engineer.
 His cousin is a Software Engineer.
 Her cousin is a Software Engineer.
 Their cousin is the best Software Engineer one can find nowadays.
-My child is a Software Engineer.
-His child is a Software Engineer.
-Her child is a Software Engineer.
-Their child is the best Software Engineer one can find nowadays.
 My nephew is a Software Engineer.
 His nephew is a Software Engineer.
 Her nephew is a Software Engineer.
@@ -1616,10 +1457,6 @@ My cousin is a nurse.
 His cousin is a nurse.
 Her cousin is a nurse.
 Their cousin is the best nurse one can find nowadays.
-My child is a nurse.
-His child is a nurse.
-Her child is a nurse.
-Their child is the best nurse one can find nowadays.
 My nephew is a nurse.
 His nephew is a nurse.
 Her nephew is a nurse.
@@ -1656,10 +1493,6 @@ My cousin is a teacher.
 His cousin is a teacher.
 Her cousin is a teacher.
 Their cousin is the best teacher one can find nowadays.
-My child is a teacher.
-His child is a teacher.
-Her child is a teacher.
-Their child is the best teacher one can find nowadays.
 My nephew is a teacher.
 His nephew is a teacher.
 Her nephew is a teacher.
@@ -1696,10 +1529,6 @@ My cousin is a homemaker.
 His cousin is a homemaker.
 Her cousin is a homemaker.
 Their cousin is the best homemaker one can find nowadays.
-My child is a homemaker.
-His child is a homemaker.
-Her child is a homemaker.
-Their child is the best homemaker one can find nowadays.
 My nephew is a homemaker.
 His nephew is a homemaker.
 Her nephew is a homemaker.
@@ -1736,10 +1565,6 @@ My cousin is a firefighter.
 His cousin is a firefighter.
 Her cousin is a firefighter.
 Their cousin is the best firefighter one can find nowadays.
-My child is a firefighter.
-His child is a firefighter.
-Her child is a firefighter.
-Their child is the best firefighter one can find nowadays.
 My nephew is a firefighter.
 His nephew is a firefighter.
 Her nephew is a firefighter.
@@ -1776,10 +1601,6 @@ My cousin is a chairperson.
 His cousin is a chairperson.
 Her cousin is a chairperson.
 Their cousin is the best chairperson one can find nowadays.
-My child is a chairperson.
-His child is a chairperson.
-Her child is a chairperson.
-Their child is the best chairperson one can find nowadays.
 My nephew is a chairperson.
 His nephew is a chairperson.
 Her nephew is a chairperson.
@@ -1816,10 +1637,6 @@ My cousin is a artisan.
 His cousin is a artisan.
 Her cousin is a artisan.
 Their cousin is the best artisan one can find nowadays.
-My child is a artisan.
-His child is a artisan.
-Her child is a artisan.
-Their child is the best artisan one can find nowadays.
 My nephew is a artisan.
 His nephew is a artisan.
 Her nephew is a artisan.
@@ -1849,9 +1666,6 @@ His sister-in-law is currently pursuing a Post Doctorate degree.
 My cousin has a Post Doctorate degree.
 Her cousin has a Post Doctorate degree.
 His cousin is currently pursuing a Post Doctorate degree.
-My child has a Post Doctorate degree.
-Her child has a Post Doctorate degree.
-His child is currently pursuing a Post Doctorate degree.
 My nephew has a Post Doctorate degree.
 Her nephew has a Post Doctorate degree.
 His nephew is currently pursuing a Post Doctorate degree.
@@ -1879,9 +1693,6 @@ His sister-in-law is currently pursuing a PhD degree.
 My cousin has a PhD degree.
 Her cousin has a PhD degree.
 His cousin is currently pursuing a PhD degree.
-My child has a PhD degree.
-Her child has a PhD degree.
-His child is currently pursuing a PhD degree.
 My nephew has a PhD degree.
 Her nephew has a PhD degree.
 His nephew is currently pursuing a PhD degree.
@@ -1909,9 +1720,6 @@ His sister-in-law is currently pursuing a Masters degree.
 My cousin has a Masters degree.
 Her cousin has a Masters degree.
 His cousin is currently pursuing a Masters degree.
-My child has a Masters degree.
-Her child has a Masters degree.
-His child is currently pursuing a Masters degree.
 My nephew has a Masters degree.
 Her nephew has a Masters degree.
 His nephew is currently pursuing a Masters degree.
@@ -1939,9 +1747,6 @@ His sister-in-law is currently pursuing a Bachelors degree.
 My cousin has a Bachelors degree.
 Her cousin has a Bachelors degree.
 His cousin is currently pursuing a Bachelors degree.
-My child has a Bachelors degree.
-Her child has a Bachelors degree.
-His child is currently pursuing a Bachelors degree.
 My nephew has a Bachelors degree.
 Her nephew has a Bachelors degree.
 His nephew is currently pursuing a Bachelors degree.
@@ -1969,9 +1774,6 @@ His sister-in-law is currently pursuing a Diploma degree.
 My cousin has a Diploma degree.
 Her cousin has a Diploma degree.
 His cousin is currently pursuing a Diploma degree.
-My child has a Diploma degree.
-Her child has a Diploma degree.
-His child is currently pursuing a Diploma degree.
 My nephew has a Diploma degree.
 Her nephew has a Diploma degree.
 His nephew is currently pursuing a Diploma degree.
@@ -1999,9 +1801,6 @@ His sister-in-law is currently pursuing a High School degree.
 My cousin has a High School degree.
 Her cousin has a High School degree.
 His cousin is currently pursuing a High School degree.
-My child has a High School degree.
-Her child has a High School degree.
-His child is currently pursuing a High School degree.
 My nephew has a High School degree.
 Her nephew has a High School degree.
 His nephew is currently pursuing a High School degree.
