@@ -29,6 +29,18 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "F",
             },
+            "দাদি": {
+                "description": "mother of mother",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "F",
+            },
+            "নানী": {
+                "description": "mother of mother",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "F",
+            },
             
         },
         # guj done
@@ -76,7 +88,7 @@ possible_relations = {
                 "gender": "F",
             }
         },
-        # TODO
+
         "mal_Mlym": {
             "അമ്മൂമ്മ": {
                 "description": "mother of father or mother",
@@ -382,6 +394,12 @@ possible_relations = {
                 "relation_code": "M",
                 "gender": "M",
             },
+            "କାକା": {
+                "description": "father's younger brother",
+                "relation": "paternal",
+                "relation_code": "M",
+                "gender": "M",
+            },
             "ମାମୁଁ": {
                 "description": "mother's brother",
                 "relation": "maternal",
@@ -409,6 +427,18 @@ possible_relations = {
                 "gender": "M",
             },
             "কাকু": {
+                "description": "father's younger brother",
+                "relation": "paternal",
+                "relation_code": "M",
+                "gender": "M",
+            },
+            "কাকা": {
+                "description": "father's younger brother",
+                "relation": "paternal",
+                "relation_code": "M",
+                "gender": "M",
+            },
+            "চাচা": {
                 "description": "father's younger brother",
                 "relation": "paternal",
                 "relation_code": "M",
@@ -748,6 +778,12 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "F",
             },
+            "মাসি": {
+                "description": "mother's sister",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "F",
+            },
             "মামী": {
                 "description": "mother's brother's wife",
                 "relation": "maternal",
@@ -766,6 +802,7 @@ possible_relations = {
                 "relation_code": "M",
                 "gender": "F",
             },
+            
         },
         "guj_Gujr": {
             "ફોઈ": {
@@ -916,6 +953,22 @@ possible_relations = {
                 "relation_code": "B",
                 "gender": "F",
             },
+            # 'அத்தை':
+            # {
+            #     "description": "father's sister",
+            #     "relation": "paternal",
+            #     "relation_code": "M",
+            #     "gender": "F",
+
+            # },
+            "பெரிய அம்மா":
+            {
+                "description": "father's elder brother's wife or mother's elder sister",
+                "relation": "Both",
+                "relation_code": "B",
+                "gender": "F",
+            },
+
             "சித்தி": {
                 "description": "father's younger brother's wife or mother's younger sister or father's younger sister",
                 "relation": "Both",
@@ -1035,6 +1088,12 @@ possible_relations = {
                 "gender": "M",
             },
             "শালা": {
+                "description": "wife's  brother",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "M",
+            },
+            "শ্যালক": {
                 "description": "wife's  brother",
                 "relation": "maternal",
                 "relation_code": "F",
@@ -1280,8 +1339,6 @@ possible_relations = {
             },
         },
     },
-    # done till above
-    ############################################################################################################
     "sister-in-law": {
         "ory_Orya": {
             "ବଡ଼ ନଣନ୍ଦ": {
@@ -1371,6 +1428,12 @@ possible_relations = {
                 "gender": "F",
             },
             "শালী": {
+                "description": "wife's sister",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "F",
+            },
+            "শ্যালিকা":{
                 "description": "wife's sister",
                 "relation": "maternal",
                 "relation_code": "F",
@@ -1613,11 +1676,23 @@ possible_relations = {
                 "gender": "M",
             },
             "ଦିଦି": {
+                "description": "elder cousin sister",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "F",
+            },
+            "ଭଉଣୀ": {
                 "description": "cousin sister",
                 "relation": "maternal",
                 "relation_code": "F",
                 "gender": "F",
             },
+            "ସମ୍ପର୍କୀୟ": {
+                "description": "relative",
+                "relation": "both",
+                "relation_code": "B",
+                "gender": "N",
+            }
         },
         "ben_Beng": {
             "দাদা": {
@@ -1644,6 +1719,12 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "F",
             },
+            "বোন": {
+                "description": "cousin sister",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "F",
+            }
         },
         "guj_Gujr": {
             "દીકરો": {
@@ -1658,6 +1739,31 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "F",
             },
+            "ભાઇ": {
+                "description": "cousin brother",
+                "relation": "paternal",
+                "relation_code": "M",
+                "gender": "M",
+            },
+            "બહેન":{
+                "description": "cousin sister",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "F",
+            },
+            "પિતરાઈ": {
+                "description": "father side cousin",
+                "relation": "paternal",
+                "relation_code": "M",
+                "gender": "N",
+            },
+            "ભાયાત":
+            {
+                "description": "mother side cousin",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "N",
+            }
         },
         "hin_Deva": {
             "भाई": {
@@ -1776,6 +1882,27 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "F",
             },
+            "மகன்":
+            {
+                "description": "cousin brother",
+                "relation": "paternal",
+                "relation_code": "M",
+                "gender": "M",
+                },
+            "மகள்":
+            {
+                "description": "cousin sister",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "F",
+            },
+            "உறவினர்":
+            {
+                "description": "cousin",
+                "relation": "both",
+                "relation_code": "B",
+                "gender": "N",  
+            }
         },
         "tel_Telu": {
             "అన్నా": {
@@ -2020,6 +2147,12 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "M",
             },
+            "ভাগনে": {
+                "description": "sister's son",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "M",
+            }, 
         },
         "guj_Gujr": {
             "ભત્રીજો": {
@@ -2116,6 +2249,13 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "M",
             },
+            "மருமகன்":
+            {
+                "description": "nephew",
+                "relation": "both",
+                "relation_code": "B",
+                "gender": "M",
+            }
         },
         "tel_Telu": {
             "మేనకొడుకు": {
@@ -2170,6 +2310,12 @@ possible_relations = {
                 "gender": "F",
             },
             "বোনঝী": {
+                "description": "sister's daughter",
+                "relation": "maternal",
+                "relation_code": "F",
+                "gender": "F",
+            },
+            "ভাগ্নী": {
                 "description": "sister's daughter",
                 "relation": "maternal",
                 "relation_code": "F",
@@ -2271,6 +2417,12 @@ possible_relations = {
                 "relation_code": "F",
                 "gender": "F",
             },
+            "மருமகள்":{
+                "description": "niece",
+                "relation": "both",
+                "relation_code": "B",
+                "gender": "F",
+            }
         },
         "tel_Telu": {
             "మేనకోడలు": {
